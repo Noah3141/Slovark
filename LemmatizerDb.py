@@ -1,13 +1,6 @@
 import mysql.connector
 class LemmatizerDb:
-    config = {
-        'user': 'root',
-        'password': 'adH65GF3hH2B1BDdeCGBe2cCcBHfB4HC',
-        'host': 'roundhouse.proxy.rlwy.net',
-        'database': 'railway',
-        'raise_on_warnings': True,
-        'port': "35412",
-    }
+    from env import config
 
     @classmethod
     def get_rows(cls,):

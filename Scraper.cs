@@ -94,7 +94,7 @@ public class Scraper
 
     private RussianEntry.Noun ProcessNounSection(HtmlNode section)
     {
-
+        
     }
 
     private RussianEntry.Adjective ProcessAdjectiveSection(HtmlNode section)
