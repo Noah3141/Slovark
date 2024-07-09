@@ -18,22 +18,70 @@ class Program:
 
         df.to_csv("./frequency_labeled_lemmas.csv");
 
+
+
+   
+
     @staticmethod
     def main() -> None:
 
-        # Take alllllll the lemma forms
+        from functools import partial
+        from typing import Any
 
-        # Loop through them
+        from wikitextprocessor import Wtp, WikiNode, NodeKind, Page
+        
+        from wikitextprocessor.dumpparser import process_dump
 
-        # Go to the internet and get Wiktionary Data
+        wtp = Wtp(
+            db_path=".\\wtp_dbs\\en_20230801.db", lang_code="en", project="wiktionary"
+        )
 
-        # Parse response and create corresponding Class
+        
 
-        # Crunch that shit into a DictionaryEntry class and append it to the master list
+        process_dump(  # extract dump file then save pages to SQLite file
+            wtp,
+            ".\\core_wiki_dumps\\en_wiktionary.xml.bz2",
+            {0, 10, 110, 828},  # namespace id, can be found at the start of dump file
+            skip_extract_dump=True,
+        )
 
-        # Save that shit as a CSV
+
+
+        #
+        #
+        #
+
+        def page_handler(wtp: Wtp, page: Page) -> Any:
+            wtp.start_page(page.title)
+
+            if not page.body: return;
+
+            tree = wtp.parse(
+                page.body, 
+                expand_all=True,
+                pre_expand=True
+            )
+            text = wtp.expand(
+                page.body, 
+                pre_expand=True,
+                expand_invoke=True
+            )
+
+            
+
+
+            print(text)
+
+
+        for _ in map(
+            partial(page_handler, wtp), wtp.get_all_pages([0])
+        ):
+            print(f"\n\n");
+            pass
 
         pass
+
+
 
 
 Program.main()

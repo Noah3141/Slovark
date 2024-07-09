@@ -88,13 +88,13 @@ public class Scraper
 
         return new RussianEntry.Verb
         {
-            
+
         }
     }
 
     private RussianEntry.Noun ProcessNounSection(HtmlNode section)
     {
-        
+
     }
 
     private RussianEntry.Adjective ProcessAdjectiveSection(HtmlNode section)

@@ -1,1 +1,13 @@
 env.py
+wtp_dbs/**
+file_reader/all/**
+file_reader/belru/**
+file_reader/ru/**
+file_reader/ukr/**
+core_wiki_dumps/**
+wikitextprocessor/**
+__pycache__
+
+
+# 
+!file_reader/ru/авуары.html
