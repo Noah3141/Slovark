@@ -19,3 +19,4 @@ __pycache__
 **/2. intermediary/**
 **/3. wikipage_json/**
 **/4. database_entries/**
+**/frequency_labeled_lemmas.csv

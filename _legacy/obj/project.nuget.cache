@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JxUbJoUTetHIIhycjvgeqnOEx2FwPfoYHRF4fFDd4RZWv+ezOW0V3f1P8iNancEFQaHI6DWTmD8C45Syt03cqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Noah3\\Code\\Slovark\\_legacy\\Slovark.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noah3\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\Noah3\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512",
+    "C:\\Users\\Noah3\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

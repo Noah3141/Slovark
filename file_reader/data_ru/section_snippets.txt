@@ -1,0 +1,365 @@
+<page>
+    <title>Laos</title>
+    <ns>0</ns>
+    <id>2643</id>
+    <revision>
+      <id>80591706</id>
+      <parentid>80215925</parentid>
+      <timestamp>2024-06-30T21:48:07Z</timestamp>
+      <contributor>
+        <username>KovachevBot</username>
+        <id>3834987</id>
+      </contributor>
+      <comment>Added anagrams (salo, also, laso) to Tagalog section</comment>
+      <origin>80591706</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11133" sha1="4txmy6wkmfpa13d0d15tsk8yug9c36m" xml:space="preserve">{{also|laos|LAOS}}
+==English==
+
+===Etymology 1===
+{{bor+|en|fr|Laos}}, plural of {{m|fr|Lao}}, from {{der|en|lo|ລາວ|t=Lao}}. More at [[w:Lao people#Names|Lao]].
+
+====Pronunciation====
+* {{IPA|en|/ˈlaʊ(s)/|/ˈlɑːoʊ(s)/}}
+* {{audio|en|En-us-Laos.ogg|a=US}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-Laos1.wav|a=Southern England}}
+* {{rhymes|en|aʊ|s=1}}
+* {{homophone|en|louse}}
+
+====Proper noun====
+{{en-proper noun}}
+
+# {{senseid|en|Q819}}{{place|en|country|r/Southeast Asia|capital=Vientiane|official=Lao People’s Democratic Republic}}.
+#: {{syn|en|Laoland}}
+
+=====Related terms=====
+* {{l|en|Lao}}
+* {{l|en|Laotian}}
+
+=====Translations=====
+{{trans-top|id=Q819|country in Southeast Asia}}
+* Afrikaans: {{t|af|Laos}}
+* Albanian: {{t|sq|Laos|m}} {{qualifier|indefinite}}, {{t+|sq|Laosi|m}} {{qualifier|definite}}
+* Amharic: {{t|am|ላዎስ}}
+* Arabic: {{t|ar|لَاوْس|f}}, {{t|ar|لَاوُس|f|tr=lāwos}}
+* Armenian: {{t+|hy|Լաոս}}
+* Assamese: {{t|as|লাউচ}}
+* Assyrian Neo-Aramaic: {{t|aii|ܠܵܘܣ|f|tr=laws}}
+* Azerbaijani: {{t+|az|Laos}}
+* Bashkir: {{t|ba|Лаос}}
+* Belarusian: {{t|be|Лао́с|m}}
+* Bengali: {{t+|bn|লাওস}}
+* Breton: {{t|br|Laos}}
+* Bulgarian: {{t+|bg|Лао́с|m}}
+* Burmese: {{t|my|လာအို}}
+* Catalan: {{t+|ca|Laos|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|老撾}}, {{t+|cmn|寮國}} {{qualifier|Taiwan}}
+* Czech: {{t+|cs|Laos|m}}
+* Danish: {{t|da|Laos|n}}
+* Dhivehi: {{t|dv|ލާއޯސް}}
+* Dutch: {{t+|nl|Laos|n}}
+* Esperanto: {{t+|eo|Laoso}}
+* Estonian: {{t+|et|Laos}}
+* Farefare: {{t|gur|Laogo}}
+* Faroese: {{t|fo|Laos|n}}
+* Finnish: {{t+|fi|Laos}}
+* French: {{t+|fr|Laos|m}}
+* Georgian: {{t+|ka|ლაოსი}}
+* German: {{t+|de|Laos|n}}
+* Greek: {{t+|el|Λάος|n}}
+* Green Hmong: {{t|hnj|Los Tsuas}}, {{t|hnj|Nplog Teb}} {{qualifier|informal}}
+* Hausa: {{t|ha|Laos}}
+* Hebrew: {{t|he|לָאוֹס|f|tr=laos}}
+* Hindi: {{t+|hi|लाओस|m}}
+* Hungarian: {{t+|hu|Laosz}}
+* Icelandic: {{t+|is|Laos|n}}
+* Ido: {{t+|io|Laos}}
+* Indonesian: {{t+|id|Laos}}
+* Interlingua: {{t|ia|Laos}}
+* Irish: {{t|ga|Laos|m}}
+* Italian: {{t+|it|Laos|m}}
+* Japanese: {{t+|ja|ラオス|tr=Raosu}}
+* Kazakh: {{t+|kk|Лаос}}
+* Khmer: {{t+|km|លាវ}}, {{t+|km|ឡាវ}}
+* Korean: {{t+|ko|^라오스}}
+* Kurdish:
+*: Northern Kurdish: {{t+|kmr|Laos}}
+* Kyrgyz: {{t+|ky|Лаос}}
+* Lao: {{t+|lo|ລາວ}}, {{t|lo|ເມືອງລາວ}}&lt;!-- sum of parts --&gt;, {{t|lo|ປະເທດລາວ}}&lt;!-- sum of parts --&gt;
+* Latvian: {{t+|lv|Laosa|f}}
+* Lithuanian: {{t+|lt|Laosas|m}}
+* Lü: {{t|khb|ᦟᦱᧁ}}
+* Macedonian: {{t+|mk|Лаос|m}}
+* Malay: {{t+|ms|Laos}}
+* Maltese: {{t+|mt|Laos}}
+* Maori: {{t+|mi|Rāoho}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|Лаос}}
+*: Mongolian: {{t|mn|ᠯᠠᠣᠰ}}
+* Navajo: {{t|nv|Lááʼos}}
+* Nepali: {{t|ne|लाओस}}
+* Norman: {{t|nrf|Laos|m}}
+* Northern Thai: {{t|nod|ᩃᩣ᩠ᩅ}}
+* Norwegian:
+*: Bokmål: {{t+|nb|Laos|n}}
+*: Nynorsk: {{t+|nn|Laos|n}}
+* Pashto: {{t|ps|لاوس|m|tr=lāwos}}
+* Persian:
+*: Dari: {{t+|prs|لَائوس}}
+*: Iranian Persian: {{t+|fa-ira|لائوس}}
+* Polish: {{t+|pl|Laos|m-in}}
+* Portuguese: {{t+|pt|Laos}}
+* Romanian: {{t+|ro|Laos|n}}
+* Russian: {{t+|ru|Лао́с|m}}
+* Santali: {{t|sat|ᱞᱟᱣᱚᱥ}}
+* Scots: {{t|sco|Laos}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Ла̏ос|m}}
+*: Roman: {{t|sh|Lȁos|m}}
+* Sinhalese: {{t|si|ලාඕසය}}
+* Slovak: {{t+|sk|Laos|m}}
+* Slovene: {{t+|sl|Laos|m}}
+* Spanish: {{t+|es|Laos}}
+* Swahili: {{t|sw|Laos}}
+* Swedish: {{t+|sv|Laos|n}}
+* Tagalog: {{t+|tl|Laos}}
+* Tajik: {{t+|tg|Лаос}}
+* Tatar: {{t|tt|Лаос}}
+* Telugu: {{t+|te|లావోస్}}
+* Tetum: {{t|tet|Laos}}
+* Thai: {{t+|th|ลาว}}, {{t|th|[[ประเทศ]][[ลาว]]|tr=bprà-têet laao}}, {{t|th|[[เมือง]][[ลาว]]|tr=mʉʉang laao}}
+* Tibetan: {{t|bo|ལའོ་སུ}}
+* Turkish: {{t+|tr|Laos}}
+* Turkmen: {{t|tk|Laos}}
+* Ukrainian: {{t+|uk|Лао́с|m}}
+* Urdu: {{t|ur|لاؤس|m}}
+* Uyghur: {{t|ug|لائوس}}
+* Uzbek: {{t+|uz|Laos}}
+* Vietnamese: {{t+|vi|Lào}}, {{t|vi|[[nước]] [[Lào]]}}
+* White Hmong: {{t|mww|Los Tsuas}}, {{t|mww|Nplog Teb}} {{qualifier|informal}}
+* Yiddish: {{t|yi|לאַאָס|n}}
+* Yoruba: {{t|yo|Laosi}}
+* Zhuang: {{t|za|Laujvoh}}
+{{trans-bottom}}
+
+=====See also=====
+* {{l|en|Vientiane}}
+* [[Appendix:Countries of the world]]
+* {{list:countries of Asia/en}}
+
+=====Further reading=====
+* {{pedia}}
+* {{R:wquote}}
+* {{R:wvoyage}}
+* {{R:commons}}
+
+===Etymology 2===
+
+====Pronunciation====
+* {{IPA|en|/laʊz/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-Laos2.wav|a=Southern England}}
+
+====Noun====
+{{head|en|noun form}}
+
+# {{plural of|en|Lao}}
+
+===Anagrams===
+* {{anagrams|en|a=alos|ASLO|LOAs|Loas|Salo|also|loas|salo|soal|sola}}
+
+[[Category:English heteronyms]]
+{{cln|en|exonyms}}
+
+==Afrikaans==
+
+===Proper noun===
+{{af-proper noun}}
+
+# {{tcl|af|Laos|id=Q819|place_capital=af:Vientiane}}
+
+====Related terms====
+* {{l|af|Laosiaan}}
+* {{l|af|Laosiaans}}
+
+===Further reading===
+* {{pedia|lang=af}}
+
+==Basque==
+{{wikipedia|lang=eu}}
+
+===Pronunciation===
+{{eu-pr}}
+
+===Proper noun===
+{{eu-proper noun|in}}
+
+# {{tcl|eu|Laos|id=Q819}}
+
+====Declension====
+{{eu-decl-proper-inanim}}
+
+====Derived terms====
+{{col-auto|eu|laostar&lt;t:Lao; Laotian&gt;|laosera|Laoseko Herri Errepublika Demokratikoa&lt;t:Lao People's Democratic Republic&gt;}}
+
+====See also====
+* {{list:countries of Asia/eu}}
+
+==Catalan==
+
+===Pronunciation===
+* {{ca-IPA}}
+* {{audio|ca|LL-Q7026 (cat)-Millars-Laos.wav|a=Valencian}}
+
+===Proper noun===
+{{ca-proper noun|m}}
+
+# {{tcl|ca|Laos|id=Q819}}
+
+====Derived terms====
+* {{l|ca|laosià}}
+
+===Further reading===
+* {{pedia|lang=ca}}
+
+==Central Huasteca Nahuatl==
+
+===Proper noun===
+{{head|nch|proper noun}}
+
+# {{tcl|nch|Laos|id=Q819}}
+
+==Central Nahuatl==
+
+===Proper noun===
+{{head|nhn|proper noun}}
+
+# {{tcl|nhn|Laos|id=Q819}}
+
+==Crimean Tatar==
+{{wp|lang=crh}}
+
+===Proper noun===
+{{head|crh|proper noun}}
+
+# {{tcl|crh|Laos|id=Q819}}
+
+==Czech==
+{{wp|lang=cs}}
+
+===Pronunciation===
+* {{cs-IPA}}
+
+===Proper noun===
+{{cs-proper noun|m-in|adj=laoský|dem=Laosan}}
+
+# {{tcl|cs|Laos|id=Q819}}
+
+====Declension====
+{{cs-ndecl|m.sg}}
+
+===Further reading===
+* {{R:cs:KNLA}}
+* {{R:cs:SSJC}}
+* {{R:cs:IJP}}
+
+{{cln|cs|exonyms}}
+
+==Dutch==
+
+===Pronunciation===
+* {{audio|nl|Nl-Laos.ogg}}
+
+===Proper noun===
+{{nl-proper noun|n}}
+
+# {{tcl|nl|Laos|id=Q819}}
+
+====Related terms====
+* {{l|nl|Laotiaan}}
+* {{l|nl|Laotiaans}}
+
+{{cln|nl|exonyms}}
+
+==Faroese==
+
+===Etymology===
+From {{der|fo|fr|Laos}}, from {{der|fo|lo|ລາວ|t=Lao}}.
+
+===Proper noun===
+{{head|fo|proper noun|g=n}}
+
+# {{tcl|fo|Laos|id=Q819}}
+
+====Related terms====
+* {{l|fo|laotiskur}}
+
+==Finnish==
+{{wikipedia|lang=fi}}
+
+===Etymology===
+From {{der|fi|fr|Laos}}.
+
+===Pronunciation===
+{{fi-pronunciation}}
+
+===Proper noun===
+{{fi-proper noun}}
+
+# {{tcl|fi|Laos|id=Q819}}
+
+====Declension====
+{{fi-decl-risti|n=sg|Laos|||a|i=0}}
+
+====Derived terms====
+* {{l|fi|laosilainen}}
+
+====See also====
+* {{l|fi|lao}}
+
+===Anagrams===
+* {{anagrams|fi|a=alos|Salo|olas|salo|sola}}
+
+{{cln|fi|exonyms}}
+==French==
+{{wikipedia|lang=fr}}
+
+===Etymology===
+Originally the plural of {{m|fr|Lao}}.
+
+===Pronunciation===
+* {{fr-IPA|Laosse}}
+* {{audio|fr|LL-Q150 (fra)-GrandCelinien-Laos.wav}}
+
+===Proper noun===
+{{fr-proper noun|m}}
+
+# {{tcl|fr|Laos|id=Q819}}
+
+====Derived terms====
+* {{l|fr|laotien}}
+* {{l|fr|Laotien}}
+
+====Descendants====
+* {{desc|en|Laos|bor=1}}
+
+====See also====
+* {{list:countries of Asia/fr}}
+
+==German==
+{{wikipedia|lang=de}}
+
+===Pronunciation===
+* {{audio|de|De-Laos.ogg}}
+
+===Proper noun===
+{{de-proper noun|toponym}}
+
+# {{tcl|de|Laos|id=Q819}}
+
+====Derived terms====
+* {{l|de|Laote}}
+* {{l|de|laotisch}}
+
+{{cln|de|exonyms}}
