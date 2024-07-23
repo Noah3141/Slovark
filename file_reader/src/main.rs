@@ -1,65 +1,75 @@
 #[allow(unused, unused_variables, dead_code)]
 use std::fs::File;
-use std::{collections::HashMap, io::Read};
+mod processes;
+use models::Language;
 
-use models::WikiTextPage;
-
+mod constants;
 mod models;
 mod traits;
-mod process_xml;
 
-fn main() {
-    
-    let mut data = String::new();
-    File::open("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\ru\\000_page_contents.csv").expect("Open source file").read_to_string(&mut data).expect("read to string");
-    let mut pos_error_count: u16 = 0;
-    let mut missing_extra_count: u16 = 0;
-    let mut successful: u64 = 0;
+// Settings
 
-    for page in data.split("===================================================") {
-        if page == "" { continue }
-
-        let result = WikiTextPage::parse_russian(&page);
-        match result {
-            Err(init_error) => match init_error {
-                models::WikiTextPageInitError::MissingCorePiece(msg) => panic!("
-=======================================================start
-{page}
-=======================================================end
-
-{msg}
-
-pos_error_count={pos_error_count}
-missing_extra_count={missing_extra_count}
-successful={successful}
-"),
-                models::WikiTextPageInitError::MissingExtraPiece(msg) => {
-                    missing_extra_count += 1;
-                    // println!("\n{msg}\n")
-                },
-                models::WikiTextPageInitError::UnimplementedPOSFound(msg) => {
-                    pos_error_count += 1;
-                },
-                models::WikiTextPageInitError::NotADictionaryPage(msg) => (),
-                models::WikiTextPageInitError::NotASubstantiveWord(msg) => (),
-                models::WikiTextPageInitError::InflectedFormPage => (),
-                models::WikiTextPageInitError::UndeclinableNoun => (),
-            },
-
-            Ok(wiki_page) => {
-                successful += 1;
-                println!("@@@@start\n{}\n@@@@end", wiki_page.table)
-            },
-        }
-
+pub struct RunOpts {
+    pub language: Language,
+    pub id: u16,
+    pub input_wiki_dump: &'static str,
+}
+impl RunOpts {
+    pub fn increment_id(mut self) {
+        self.id += 1;
     }
 
-    println!("
-pos_error_count={pos_error_count}
-missing_extra_count={missing_extra_count}
-successful={successful}
-")
+    pub fn intermediary_out(&self) -> String {
+        match self.language {
+            crate::models::Language::Russian => {
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_ru\\2. intermediary\\{id}_ru_intermediary.txt", id= RUN_OPTS.id)
+            }
+            crate::models::Language::Ukrainian => {
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_ukr\\2. intermediary\\{id}_ukr_intermediary.txt", id= RUN_OPTS.id)
+            }
+            crate::models::Language::Belarusian => {
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_bela\\2. intermediary\\{id}_bela_intermediary.txt", id= RUN_OPTS.id)
+            }
+        }
+    }
 
+    pub fn wiki_pages_out(&self) -> String {
+        match self.language {
+            crate::models::Language::Russian => {
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_ru\\3. wikipage_json\\{id}_ru_wiki_pages.json", id= RUN_OPTS.id)
+            }
+            crate::models::Language::Ukrainian => {
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_ukr\\3. wikipage_json\\{id}_ukr_wiki_pages.json", id= RUN_OPTS.id)
+            }
+            crate::models::Language::Belarusian => {
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_bela\\3. wikipage_json\\{id}_bela_wiki_pages.json", id= RUN_OPTS.id)
+            }
+        }
+    }
+    pub fn database_entries_out(&self) -> String {
+        match self.language {
+            crate::models::Language::Russian => {
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_ru\\4. database_entries\\{id}_ru_entries.csv", id= RUN_OPTS.id)
+            }
+            crate::models::Language::Ukrainian => {
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_ukr\\4. database_entries\\{id}_ukr_entries.csv", id= RUN_OPTS.id)
+            }
+            crate::models::Language::Belarusian => {
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_bela\\4. database_entries\\{id}_bela_entries.csv", id= RUN_OPTS.id)
+            }
+        }
+    }
 }
 
+pub const RUN_OPTS: &'static RunOpts = &RunOpts {
+    language: Language::Russian,
+    id: 1,
+    input_wiki_dump: ".xml",
+};
 
+fn main() {
+    processes::_1_dump_to_intermediary::run().expect("Success of dump to intermediary");
+    processes::_2a_intermediary_to_lemmas_a::run().expect("success of 2a intermediary to lemmas_a");
+    processes::_2b_intermediary_to_wikipages::run().expect("_2b_intermediary_to_wikipages");
+    processes::_3_wikipage_to_database::run().expect("");
+}

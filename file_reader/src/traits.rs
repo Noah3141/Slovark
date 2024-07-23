@@ -7,7 +7,8 @@ pub trait Searchable {
 
 impl Searchable for &[u8] {
     fn find(self, item: Self) -> Option<usize> {
-        self.windows(item.len()).position(|where_window| where_window == item)
+        self.windows(item.len())
+            .position(|where_window| where_window == item)
     }
 
     fn find_all(self, item: Self) -> Vec<usize> {
@@ -18,6 +19,6 @@ impl Searchable for &[u8] {
             idxs.push(global_idx);
             start_idx = global_idx + item.len();
         }
-        return idxs
+        return idxs;
     }
 }
