@@ -8,6 +8,14 @@ core_wiki_dumps/**
 wikitextprocessor/**
 __pycache__
 
-
+**/core_wiki_dumps
 # 
 !file_reader/ru/авуары.html
+
+
+# Large data sets of the process
+
+**/1. source_dump/**
+**/2. intermediary/**
+**/3. wikipage_json/**
+**/4. database_entries/**
