@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Noah3\\Code\\Slovark\\Slovark.csproj": {}
+    "C:\\Users\\Noah3\\Code\\Slovark\\_legacy\\Slovark.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Noah3\\Code\\Slovark\\Slovark.csproj": {
+    "C:\\Users\\Noah3\\Code\\Slovark\\_legacy\\Slovark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noah3\\Code\\Slovark\\Slovark.csproj",
+        "projectUniqueName": "C:\\Users\\Noah3\\Code\\Slovark\\_legacy\\Slovark.csproj",
         "projectName": "Slovark",
-        "projectPath": "C:\\Users\\Noah3\\Code\\Slovark\\Slovark.csproj",
+        "projectPath": "C:\\Users\\Noah3\\Code\\Slovark\\_legacy\\Slovark.csproj",
         "packagesPath": "C:\\Users\\Noah3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noah3\\Code\\Slovark\\obj\\",
+        "outputPath": "C:\\Users\\Noah3\\Code\\Slovark\\_legacy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
