@@ -54,18 +54,13 @@ pub fn run() -> Result<(), String> {
         let wiki_pages: Vec<WikiTextPage> =
             serde_json::from_str(&lemma_input_file).expect("deserialization");
 
-        let output_file = File::open("./").expect("msg");
 
-        // let mut wiki_pages_text = File::options().create(true).write(true).open("C:\\Users\\Noah3\\Code\\Slovark\\entry_data\\parsed_pages_all.txt").expect("opening file");
-        // let mut wiki_pages_binary = File::options().create(true).write(true).open("C:\\Users\\Noah3\\Code\\Slovark\\entry_data\\parsed_pages_all.bin").expect("opening file");
-
-        // wiki_pages_text.write_all(serde_json::to_string_pretty(&wiki_pages).expect("serialization").as_bytes()).expect("writing");
-
-        // bincode::serialize_into(wiki_pages_binary, &*wiki_pages.into_boxed_slice()).expect("serialization");
+    
         let mut full_wiki_pages_dump = File::options()
             .append(true)
-            .open("C:\\Users\\Noah3\\Code\\Slovark\\entry_data\\complete_entries.csv")
-            .expect("open file");
+            .create_new(true)
+            .open(RUN_OPTS.database_entries_out())
+            .expect("open new file for wiki_pages_dump");
 
         for wiki_page in wiki_pages {
             let r#type = wiki_page.pos.to_string();

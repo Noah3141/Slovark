@@ -32,17 +32,29 @@ impl RunOpts {
             }
         }
     }
-
+    pub fn form_lemma_out(&self) -> String {
+        match self.language {
+            crate::models::Language::Russian => {
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_ru\\3a. form_lemmas\\{id}_ru_wiki_pages.json", id= RUN_OPTS.id)
+            }
+            crate::models::Language::Ukrainian => {
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_ukr\\3a. form_lemmas\\{id}_ukr_wiki_pages.json", id= RUN_OPTS.id)
+            }
+            crate::models::Language::Belarusian => {
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_bela\\3a. form_lemmas\\{id}_bela_wiki_pages.json", id= RUN_OPTS.id)
+            }
+        }
+    }
     pub fn wiki_pages_out(&self) -> String {
         match self.language {
             crate::models::Language::Russian => {
-                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_ru\\3. wikipage_json\\{id}_ru_wiki_pages.json", id= RUN_OPTS.id)
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_ru\\3b. wikipage_json\\{id}_ru_wiki_pages.json", id= RUN_OPTS.id)
             }
             crate::models::Language::Ukrainian => {
-                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_ukr\\3. wikipage_json\\{id}_ukr_wiki_pages.json", id= RUN_OPTS.id)
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_ukr\\3b. wikipage_json\\{id}_ukr_wiki_pages.json", id= RUN_OPTS.id)
             }
             crate::models::Language::Belarusian => {
-                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_bela\\3. wikipage_json\\{id}_bela_wiki_pages.json", id= RUN_OPTS.id)
+                format!("C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\data_bela\\3b. wikipage_json\\{id}_bela_wiki_pages.json", id= RUN_OPTS.id)
             }
         }
     }
@@ -62,14 +74,16 @@ impl RunOpts {
 }
 
 pub const RUN_OPTS: &'static RunOpts = &RunOpts {
-    language: Language::Russian,
-    id: 1,
-    input_wiki_dump: ".xml",
+    language: Language::Belarusian,
+    id: 2,
+    input_wiki_dump:
+        "C:\\Users\\Noah3\\Code\\Slovark\\file_reader\\1. core_wiki_dumps\\en_wiktionary.xml",
 };
 
 fn main() {
-    processes::_1_dump_to_intermediary::run().expect("Success of dump to intermediary");
+
+    // processes::_1_dump_to_intermediary::run().expect("Success of dump to intermediary");
     processes::_2a_intermediary_to_lemmas_a::run().expect("success of 2a intermediary to lemmas_a");
-    processes::_2b_intermediary_to_wikipages::run().expect("_2b_intermediary_to_wikipages");
-    processes::_3_wikipage_to_database::run().expect("");
+    // processes::_2b_intermediary_to_wikipages::run().expect("_2b_intermediary_to_wikipages");
+    // processes::_3_wikipage_to_database::run().expect("");
 }

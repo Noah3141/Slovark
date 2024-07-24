@@ -8,7 +8,7 @@ core_wiki_dumps/**
 wikitextprocessor/**
 __pycache__
 
-**/core_wiki_dumps
+**/1. core_wiki_dumps
 # 
 !file_reader/ru/авуары.html
 

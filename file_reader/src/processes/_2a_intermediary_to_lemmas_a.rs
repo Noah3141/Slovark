@@ -3,9 +3,9 @@ use std::{
     io::{Read, Write},
 };
 
-use crate::RUN_OPTS;
+use crate::{constants::INTERMEDIARY_DELIMITER, models::WikiTextPage, RUN_OPTS};
 
-/// Takes an intermediary file and creates a form-lemma key
+/// Takes an intermediary file and creates a form-lemma key. This is the first of potentially multiple steps importing data into this file. Others may draw from other sources, but this draws from WikiText inflected form existing pages, which are frequently non-comprehensive across forms, but is a large dataset.
 ///
 pub fn run() -> Result<(), &'static str> {
     let mut intermediary_text = String::with_capacity(50_000);
@@ -17,8 +17,16 @@ pub fn run() -> Result<(), &'static str> {
         .read_to_string(&mut intermediary_text)
         .expect("writing to variable to pass out of fn");
 
-    // Parse
+    let mut form_lemma_file = File::options()
+        .create_new(true)
+        .append(true)
+        .open(RUN_OPTS.form_lemma_out())
+        .expect("Open form_lemma out file");
 
+    for page in intermediary_text.split(INTERMEDIARY_DELIMITER) {
+        if page == "" { continue; }
+        let extract_result = WikiTextPage::write_lemma_entry(page, false, &mut form_lemma_file);
+    }
     // Create Form-Lemma sheet
 
     Ok(())

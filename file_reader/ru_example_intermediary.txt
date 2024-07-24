@@ -1,0 +1,5396 @@
+===================================================
+<page>
+    <title>изнывал</title>
+    <ns>0</ns>
+    <id>5149125</id>
+    <revision>
+      <id>57111192</id>
+      <parentid>36377638</parentid>
+      <timestamp>2019-10-19T11:33:57Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111192</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="181" sha1="seqlgn8enf34q79b44pg26okf5nrb69" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|изныва́л}}
+
+===Verb===
+{{head|ru|verb form|head=изныва́л}}
+
+# {{inflection of|ru|изныва́ть||m|s|past|ind|impfv}}</text>
+      <sha1>seqlgn8enf34q79b44pg26okf5nrb69</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>изнывала</title>
+    <ns>0</ns>
+    <id>5149126</id>
+    <revision>
+      <id>57111199</id>
+      <parentid>36377639</parentid>
+      <timestamp>2019-10-19T11:33:58Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111199</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="fvs2aa2kgcyztez3eunik93w8eie5m2" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|изныва́ла}}
+
+===Verb===
+{{head|ru|verb form|head=изныва́ла}}
+
+# {{inflection of|ru|изныва́ть||f|s|past|ind|impfv}}</text>
+      <sha1>fvs2aa2kgcyztez3eunik93w8eie5m2</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>изнывало</title>
+    <ns>0</ns>
+    <id>5149127</id>
+    <revision>
+      <id>57111206</id>
+      <parentid>36377641</parentid>
+      <timestamp>2019-10-19T11:33:59Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111206</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="3qaw8ccigz6btto112bj1u78vq9d0o6" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|изныва́ло}}
+
+===Verb===
+{{head|ru|verb form|head=изныва́ло}}
+
+# {{inflection of|ru|изныва́ть||n|s|past|ind|impfv}}</text>
+      <sha1>3qaw8ccigz6btto112bj1u78vq9d0o6</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>изнывали</title>
+    <ns>0</ns>
+    <id>5149128</id>
+    <revision>
+      <id>57111214</id>
+      <parentid>36377640</parentid>
+      <timestamp>2019-10-19T11:33:59Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111214</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="183" sha1="7z0q73guysfy4qmsc04yd1orjnopbr9" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|изныва́ли}}
+
+===Verb===
+{{head|ru|verb form|head=изныва́ли}}
+
+# {{inflection of|ru|изныва́ть||p|past|ind|impfv}}</text>
+      <sha1>7z0q73guysfy4qmsc04yd1orjnopbr9</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>поблёк</title>
+    <ns>0</ns>
+    <id>5149133</id>
+    <revision>
+      <id>52608205</id>
+      <parentid>36391672</parentid>
+      <timestamp>2019-05-02T16:25:55Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      moved lang= in {{inflection of}} to 1=</comment>
+      <origin>52608205</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="148" sha1="aayljjp7ayurlyb8gv6hbfetgai2r29" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA}}
+
+===Verb===
+{{head|ru|verb form}}
+
+# {{inflection of|ru|поблёкнуть||short|m|s|past|ind|pfv}}</text>
+      <sha1>aayljjp7ayurlyb8gv6hbfetgai2r29</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>поблёкла</title>
+    <ns>0</ns>
+    <id>5149134</id>
+    <revision>
+      <id>52608206</id>
+      <parentid>36391673</parentid>
+      <timestamp>2019-05-02T16:25:56Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      moved lang= in {{inflection of}} to 1=</comment>
+      <origin>52608206</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="148" sha1="4jm6r0la0tlditq7f9tdfoti9nrw2x4" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA}}
+
+===Verb===
+{{head|ru|verb form}}
+
+# {{inflection of|ru|поблёкнуть||short|f|s|past|ind|pfv}}</text>
+      <sha1>4jm6r0la0tlditq7f9tdfoti9nrw2x4</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>поблёкло</title>
+    <ns>0</ns>
+    <id>5149135</id>
+    <revision>
+      <id>52608208</id>
+      <parentid>36391675</parentid>
+      <timestamp>2019-05-02T16:25:58Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      moved lang= in {{inflection of}} to 1=</comment>
+      <origin>52608208</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="148" sha1="3emolgvoxs6pwe894ue0zg9abnhp4op" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA}}
+
+===Verb===
+{{head|ru|verb form}}
+
+# {{inflection of|ru|поблёкнуть||short|n|s|past|ind|pfv}}</text>
+      <sha1>3emolgvoxs6pwe894ue0zg9abnhp4op</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>поблёкли</title>
+    <ns>0</ns>
+    <id>5149136</id>
+    <revision>
+      <id>52608207</id>
+      <parentid>36391674</parentid>
+      <timestamp>2019-05-02T16:25:57Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      moved lang= in {{inflection of}} to 1=</comment>
+      <origin>52608207</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="146" sha1="brnp26qb5hxzw57c2lsa39lcfemch6q" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA}}
+
+===Verb===
+{{head|ru|verb form}}
+
+# {{inflection of|ru|поблёкнуть||short|p|past|ind|pfv}}</text>
+      <sha1>brnp26qb5hxzw57c2lsa39lcfemch6q</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>покачнулся</title>
+    <ns>0</ns>
+    <id>5149137</id>
+    <revision>
+      <id>57111225</id>
+      <parentid>36394179</parentid>
+      <timestamp>2019-10-19T11:34:01Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111225</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="5bx8y7qikcw4tiqgu99q697uz3nodc8" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|покачну́лся}}
+
+===Verb===
+{{head|ru|verb form|head=покачну́лся}}
+
+# {{inflection of|ru|покачну́ться||m|s|past|ind|pfv}}</text>
+      <sha1>5bx8y7qikcw4tiqgu99q697uz3nodc8</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>покачнулась</title>
+    <ns>0</ns>
+    <id>5149138</id>
+    <revision>
+      <id>57111231</id>
+      <parentid>36394176</parentid>
+      <timestamp>2019-10-19T11:34:02Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111231</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="201" sha1="r4k4aviuyzav5kviaxezqonvefodpwz" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|покачну́лась}}
+
+===Verb===
+{{head|ru|verb form|head=покачну́лась}}
+
+# {{inflection of|ru|покачну́ться||f|s|past|ind|pfv}}</text>
+      <sha1>r4k4aviuyzav5kviaxezqonvefodpwz</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>покачнулось</title>
+    <ns>0</ns>
+    <id>5149139</id>
+    <revision>
+      <id>57111237</id>
+      <parentid>36394178</parentid>
+      <timestamp>2019-10-19T11:34:02Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111237</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="201" sha1="ljvur9vvr12reo9jb7jkk6crl2b572s" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|покачну́лось}}
+
+===Verb===
+{{head|ru|verb form|head=покачну́лось}}
+
+# {{inflection of|ru|покачну́ться||n|s|past|ind|pfv}}</text>
+      <sha1>ljvur9vvr12reo9jb7jkk6crl2b572s</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>покачнулись</title>
+    <ns>0</ns>
+    <id>5149140</id>
+    <revision>
+      <id>57111244</id>
+      <parentid>36394177</parentid>
+      <timestamp>2019-10-19T11:34:03Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111244</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="199" sha1="euinbs5xyjrwcmq2dd5whj15ox2h5tu" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|покачну́лись}}
+
+===Verb===
+{{head|ru|verb form|head=покачну́лись}}
+
+# {{inflection of|ru|покачну́ться||p|past|ind|pfv}}</text>
+      <sha1>euinbs5xyjrwcmq2dd5whj15ox2h5tu</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>прививал</title>
+    <ns>0</ns>
+    <id>5149141</id>
+    <revision>
+      <id>57111250</id>
+      <parentid>44373966</parentid>
+      <timestamp>2019-10-19T11:34:04Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111250</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="8vqr8qpav6me6bj427d8lqvarxm9dou" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|привива́л}}
+
+===Verb===
+{{head|ru|verb form|head=привива́л}}
+
+# {{inflection of|ru|привива́ть||m|s|past|ind|impfv}}</text>
+      <sha1>8vqr8qpav6me6bj427d8lqvarxm9dou</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>прививала</title>
+    <ns>0</ns>
+    <id>5149142</id>
+    <revision>
+      <id>57111256</id>
+      <parentid>44373964</parentid>
+      <timestamp>2019-10-19T11:34:05Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111256</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="lxgk4tm0fi0vmhbs3x33qylcqkjcd3p" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|привива́ла}}
+
+===Verb===
+{{head|ru|verb form|head=привива́ла}}
+
+# {{inflection of|ru|привива́ть||f|s|past|ind|impfv}}</text>
+      <sha1>lxgk4tm0fi0vmhbs3x33qylcqkjcd3p</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>прививало</title>
+    <ns>0</ns>
+    <id>5149143</id>
+    <revision>
+      <id>57111262</id>
+      <parentid>44373967</parentid>
+      <timestamp>2019-10-19T11:34:05Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111262</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="ijenx8httrx0y1wv6sr6g9wt1xx4w8j" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|привива́ло}}
+
+===Verb===
+{{head|ru|verb form|head=привива́ло}}
+
+# {{inflection of|ru|привива́ть||n|s|past|ind|impfv}}</text>
+      <sha1>ijenx8httrx0y1wv6sr6g9wt1xx4w8j</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>прививали</title>
+    <ns>0</ns>
+    <id>5149144</id>
+    <revision>
+      <id>57111267</id>
+      <parentid>44373965</parentid>
+      <timestamp>2019-10-19T11:34:06Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111267</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="rwcn97oen3bszjcu5ek1mqc6q4rmhff" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|привива́ли}}
+
+===Verb===
+{{head|ru|verb form|head=привива́ли}}
+
+# {{inflection of|ru|привива́ть||p|past|ind|impfv}}</text>
+      <sha1>rwcn97oen3bszjcu5ek1mqc6q4rmhff</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>припарковал</title>
+    <ns>0</ns>
+    <id>5149145</id>
+    <revision>
+      <id>57111274</id>
+      <parentid>36399218</parentid>
+      <timestamp>2019-10-19T11:34:07Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111274</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="r22jv5c31k0mgzsn5il6y35kq4m7t3y" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|припаркова́л}}
+
+===Verb===
+{{head|ru|verb form|head=припаркова́л}}
+
+# {{inflection of|ru|припаркова́ть||m|s|past|ind|pfv}}</text>
+      <sha1>r22jv5c31k0mgzsn5il6y35kq4m7t3y</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>припарковала</title>
+    <ns>0</ns>
+    <id>5149146</id>
+    <revision>
+      <id>57111282</id>
+      <parentid>36399219</parentid>
+      <timestamp>2019-10-19T11:34:08Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111282</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="kbk2fywnvorpqzv70r5yj4igsvh1q3n" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|припаркова́ла}}
+
+===Verb===
+{{head|ru|verb form|head=припаркова́ла}}
+
+# {{inflection of|ru|припаркова́ть||f|s|past|ind|pfv}}</text>
+      <sha1>kbk2fywnvorpqzv70r5yj4igsvh1q3n</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>припарковало</title>
+    <ns>0</ns>
+    <id>5149147</id>
+    <revision>
+      <id>57111288</id>
+      <parentid>36399223</parentid>
+      <timestamp>2019-10-19T11:34:09Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111288</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="1b1p8uroemwp0tcmjikxdqoh6d0jsoc" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|припаркова́ло}}
+
+===Verb===
+{{head|ru|verb form|head=припаркова́ло}}
+
+# {{inflection of|ru|припаркова́ть||n|s|past|ind|pfv}}</text>
+      <sha1>1b1p8uroemwp0tcmjikxdqoh6d0jsoc</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>припарковали</title>
+    <ns>0</ns>
+    <id>5149148</id>
+    <revision>
+      <id>57111295</id>
+      <parentid>36399221</parentid>
+      <timestamp>2019-10-19T11:34:09Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111295</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="fjyftqnh0epjfic6ogt2q7u77r71jlj" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|припаркова́ли}}
+
+===Verb===
+{{head|ru|verb form|head=припаркова́ли}}
+
+# {{inflection of|ru|припаркова́ть||p|past|ind|pfv}}</text>
+      <sha1>fjyftqnh0epjfic6ogt2q7u77r71jlj</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>пьянел</title>
+    <ns>0</ns>
+    <id>5149149</id>
+    <revision>
+      <id>57111302</id>
+      <parentid>36401920</parentid>
+      <timestamp>2019-10-19T11:34:10Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111302</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="c80r7tkqukgl1jgnd7efjifk51vlp1t" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|пьяне́л}}
+
+===Verb===
+{{head|ru|verb form|head=пьяне́л}}
+
+# {{inflection of|ru|пьяне́ть||m|s|past|ind|impfv}}</text>
+      <sha1>c80r7tkqukgl1jgnd7efjifk51vlp1t</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>пьянела</title>
+    <ns>0</ns>
+    <id>5149150</id>
+    <revision>
+      <id>57111308</id>
+      <parentid>36401921</parentid>
+      <timestamp>2019-10-19T11:34:11Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111308</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="179" sha1="49jlw9iewhi7hxvoyvl5pwryrqs7zbj" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|пьяне́ла}}
+
+===Verb===
+{{head|ru|verb form|head=пьяне́ла}}
+
+# {{inflection of|ru|пьяне́ть||f|s|past|ind|impfv}}</text>
+      <sha1>49jlw9iewhi7hxvoyvl5pwryrqs7zbj</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>пьянело</title>
+    <ns>0</ns>
+    <id>5149151</id>
+    <revision>
+      <id>57111313</id>
+      <parentid>36401923</parentid>
+      <timestamp>2019-10-19T11:34:12Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111313</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="179" sha1="ix97dpmsdqh44lxsb5bvyz1dbv2cviw" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|пьяне́ло}}
+
+===Verb===
+{{head|ru|verb form|head=пьяне́ло}}
+
+# {{inflection of|ru|пьяне́ть||n|s|past|ind|impfv}}</text>
+      <sha1>ix97dpmsdqh44lxsb5bvyz1dbv2cviw</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>пьянели</title>
+    <ns>0</ns>
+    <id>5149152</id>
+    <revision>
+      <id>57111319</id>
+      <parentid>36401922</parentid>
+      <timestamp>2019-10-19T11:34:12Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111319</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="pkp05vu39zw916l8dsot4t9cnq0skiy" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|пьяне́ли}}
+
+===Verb===
+{{head|ru|verb form|head=пьяне́ли}}
+
+# {{inflection of|ru|пьяне́ть||p|past|ind|impfv}}</text>
+      <sha1>pkp05vu39zw916l8dsot4t9cnq0skiy</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>разгружал</title>
+    <ns>0</ns>
+    <id>5149153</id>
+    <revision>
+      <id>57111327</id>
+      <parentid>36402453</parentid>
+      <timestamp>2019-10-19T11:34:13Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111327</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="193" sha1="263j76v45ut7nh3bg09ev1tqo6d75jk" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|разгружа́л}}
+
+===Verb===
+{{head|ru|verb form|head=разгружа́л}}
+
+# {{inflection of|ru|разгружа́ть||m|s|past|ind|impfv}}</text>
+      <sha1>263j76v45ut7nh3bg09ev1tqo6d75jk</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>разгружала</title>
+    <ns>0</ns>
+    <id>5149154</id>
+    <revision>
+      <id>57111333</id>
+      <parentid>36402454</parentid>
+      <timestamp>2019-10-19T11:34:14Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111333</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="3y0ku2l190p6fspm5bfeb2fddaorzhj" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|разгружа́ла}}
+
+===Verb===
+{{head|ru|verb form|head=разгружа́ла}}
+
+# {{inflection of|ru|разгружа́ть||f|s|past|ind|impfv}}</text>
+      <sha1>3y0ku2l190p6fspm5bfeb2fddaorzhj</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>разгружало</title>
+    <ns>0</ns>
+    <id>5149155</id>
+    <revision>
+      <id>57111339</id>
+      <parentid>36402456</parentid>
+      <timestamp>2019-10-19T11:34:15Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111339</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="tenlty985k2cd9yqyhidzrnnhnwkgwl" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|разгружа́ло}}
+
+===Verb===
+{{head|ru|verb form|head=разгружа́ло}}
+
+# {{inflection of|ru|разгружа́ть||n|s|past|ind|impfv}}</text>
+      <sha1>tenlty985k2cd9yqyhidzrnnhnwkgwl</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>разгружали</title>
+    <ns>0</ns>
+    <id>5149156</id>
+    <revision>
+      <id>57111345</id>
+      <parentid>36402455</parentid>
+      <timestamp>2019-10-19T11:34:16Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111345</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="195" sha1="b6kvhnx36m6vpx8gbe85xm4ug4t8ei8" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|разгружа́ли}}
+
+===Verb===
+{{head|ru|verb form|head=разгружа́ли}}
+
+# {{inflection of|ru|разгружа́ть||p|past|ind|impfv}}</text>
+      <sha1>b6kvhnx36m6vpx8gbe85xm4ug4t8ei8</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>свесился</title>
+    <ns>0</ns>
+    <id>5149157</id>
+    <revision>
+      <id>57111352</id>
+      <parentid>36405511</parentid>
+      <timestamp>2019-10-19T11:34:16Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111352</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="tans6wel1boyx9vm0rel0e3wecsgoi1" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|све́сился}}
+
+===Verb===
+{{head|ru|verb form|head=све́сился}}
+
+# {{inflection of|ru|све́ситься||m|s|past|ind|pfv}}</text>
+      <sha1>tans6wel1boyx9vm0rel0e3wecsgoi1</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>свесилась</title>
+    <ns>0</ns>
+    <id>5149158</id>
+    <revision>
+      <id>57111358</id>
+      <parentid>36405508</parentid>
+      <timestamp>2019-10-19T11:34:17Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111358</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="6oj9qklgbfigxalrsrjxu5hfbua7xx4" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|све́силась}}
+
+===Verb===
+{{head|ru|verb form|head=све́силась}}
+
+# {{inflection of|ru|све́ситься||f|s|past|ind|pfv}}</text>
+      <sha1>6oj9qklgbfigxalrsrjxu5hfbua7xx4</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>свесилось</title>
+    <ns>0</ns>
+    <id>5149159</id>
+    <revision>
+      <id>57111365</id>
+      <parentid>36405510</parentid>
+      <timestamp>2019-10-19T11:34:18Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111365</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="37v0ake9p5uf8qv2phx03jx56b9hshn" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|све́силось}}
+
+===Verb===
+{{head|ru|verb form|head=све́силось}}
+
+# {{inflection of|ru|све́ситься||n|s|past|ind|pfv}}</text>
+      <sha1>37v0ake9p5uf8qv2phx03jx56b9hshn</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>свесились</title>
+    <ns>0</ns>
+    <id>5149160</id>
+    <revision>
+      <id>57111371</id>
+      <parentid>36405509</parentid>
+      <timestamp>2019-10-19T11:34:19Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111371</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="mxrhw7fu4x6eiarwkkemi5lh6lg5uwo" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|све́сились}}
+
+===Verb===
+{{head|ru|verb form|head=све́сились}}
+
+# {{inflection of|ru|све́ситься||p|past|ind|pfv}}</text>
+      <sha1>mxrhw7fu4x6eiarwkkemi5lh6lg5uwo</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>убивался</title>
+    <ns>0</ns>
+    <id>5149161</id>
+    <revision>
+      <id>57111377</id>
+      <parentid>36411379</parentid>
+      <timestamp>2019-10-19T11:34:19Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111377</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="bbsbg3uwlrup55znfd4j0rvzrd5jkbn" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|убива́лся}}
+
+===Verb===
+{{head|ru|verb form|head=убива́лся}}
+
+# {{inflection of|ru|убива́ться||m|s|past|ind|impfv}}</text>
+      <sha1>bbsbg3uwlrup55znfd4j0rvzrd5jkbn</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>убивалась</title>
+    <ns>0</ns>
+    <id>5149162</id>
+    <revision>
+      <id>57111383</id>
+      <parentid>36411374</parentid>
+      <timestamp>2019-10-19T11:34:20Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111383</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="ox1pkrq6zu80bfljhr3fs2ry8jx7c4b" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|убива́лась}}
+
+===Verb===
+{{head|ru|verb form|head=убива́лась}}
+
+# {{inflection of|ru|убива́ться||f|s|past|ind|impfv}}</text>
+      <sha1>ox1pkrq6zu80bfljhr3fs2ry8jx7c4b</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>убивалось</title>
+    <ns>0</ns>
+    <id>5149163</id>
+    <revision>
+      <id>57111389</id>
+      <parentid>36411378</parentid>
+      <timestamp>2019-10-19T11:34:21Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111389</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="jl15kqsli107t0o9zbenpt0dr1lx39w" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|убива́лось}}
+
+===Verb===
+{{head|ru|verb form|head=убива́лось}}
+
+# {{inflection of|ru|убива́ться||n|s|past|ind|impfv}}</text>
+      <sha1>jl15kqsli107t0o9zbenpt0dr1lx39w</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>убивались</title>
+    <ns>0</ns>
+    <id>5149164</id>
+    <revision>
+      <id>57111395</id>
+      <parentid>36411376</parentid>
+      <timestamp>2019-10-19T11:34:22Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111395</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="2g7aotujh464vkgadjqv98hr920jfwz" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|убива́лись}}
+
+===Verb===
+{{head|ru|verb form|head=убива́лись}}
+
+# {{inflection of|ru|убива́ться||p|past|ind|impfv}}</text>
+      <sha1>2g7aotujh464vkgadjqv98hr920jfwz</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>угомонился</title>
+    <ns>0</ns>
+    <id>5149165</id>
+    <revision>
+      <id>57111404</id>
+      <parentid>36411928</parentid>
+      <timestamp>2019-10-19T11:34:23Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111404</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="15kk7u5rcqw2nysjxnrw4exfok5bnox" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|угомони́лся}}
+
+===Verb===
+{{head|ru|verb form|head=угомони́лся}}
+
+# {{inflection of|ru|угомони́ться||m|s|past|ind|pfv}}</text>
+      <sha1>15kk7u5rcqw2nysjxnrw4exfok5bnox</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>угомонилась</title>
+    <ns>0</ns>
+    <id>5149166</id>
+    <revision>
+      <id>57111410</id>
+      <parentid>36411925</parentid>
+      <timestamp>2019-10-19T11:34:23Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111410</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="201" sha1="suj7ub7imq7x9puq0jhy7jtgponyvg1" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|угомони́лась}}
+
+===Verb===
+{{head|ru|verb form|head=угомони́лась}}
+
+# {{inflection of|ru|угомони́ться||f|s|past|ind|pfv}}</text>
+      <sha1>suj7ub7imq7x9puq0jhy7jtgponyvg1</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>угомонилось</title>
+    <ns>0</ns>
+    <id>5149167</id>
+    <revision>
+      <id>57111416</id>
+      <parentid>36411927</parentid>
+      <timestamp>2019-10-19T11:34:24Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111416</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="201" sha1="9otf0sgz97zka1p2gphyr9xuuz1qqby" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|угомони́лось}}
+
+===Verb===
+{{head|ru|verb form|head=угомони́лось}}
+
+# {{inflection of|ru|угомони́ться||n|s|past|ind|pfv}}</text>
+      <sha1>9otf0sgz97zka1p2gphyr9xuuz1qqby</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>угомонились</title>
+    <ns>0</ns>
+    <id>5149168</id>
+    <revision>
+      <id>57111423</id>
+      <parentid>36411926</parentid>
+      <timestamp>2019-10-19T11:34:25Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111423</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="199" sha1="mnsan0wkh9df2t8tdr5g4fu2nheji7d" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|угомони́лись}}
+
+===Verb===
+{{head|ru|verb form|head=угомони́лись}}
+
+# {{inflection of|ru|угомони́ться||p|past|ind|pfv}}</text>
+      <sha1>mnsan0wkh9df2t8tdr5g4fu2nheji7d</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>липнул</title>
+    <ns>0</ns>
+    <id>5149173</id>
+    <revision>
+      <id>57111429</id>
+      <parentid>36380394</parentid>
+      <timestamp>2019-10-19T11:34:26Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111429</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="ewbtvuh7ke4eppy2phx8veirbe047p4" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ли́пнул}}
+
+===Verb===
+{{head|ru|verb form|head=ли́пнул}}
+
+# {{inflection of|ru|ли́пнуть||m|s|past|ind|impfv}}</text>
+      <sha1>ewbtvuh7ke4eppy2phx8veirbe047p4</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>лип</title>
+    <ns>0</ns>
+    <id>5149177</id>
+    <revision>
+      <id>80320550</id>
+      <parentid>64260071</parentid>
+      <timestamp>2024-06-18T05:29:12Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      convert {{ru-noun form}} to {{head|ru|noun form}} per [[WT:RFDO#Template:ru-noun form]]</comment>
+      <origin>80320550</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="296" sha1="7stkl2o3m1w5x7g1xjr2zdrm8rmfbs8" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA}}
+* {{rhymes|ru|ip|s=1}}
+
+===Etymology 1===
+
+====Verb====
+{{head|ru|verb form}}
+
+# {{inflection of|ru|ли́пнуть||short|m|s|past|ind|impfv}}
+
+===Etymology 2===
+
+====Noun====
+{{head|ru|noun form|g=f-in-p}}
+
+# {{inflection of|ru|ли́па||gen|p}}</text>
+      <sha1>7stkl2o3m1w5x7g1xjr2zdrm8rmfbs8</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>липла</title>
+    <ns>0</ns>
+    <id>5149178</id>
+    <revision>
+      <id>52606707</id>
+      <parentid>36380383</parentid>
+      <timestamp>2019-05-02T16:01:30Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      moved lang= in {{inflection of}} to 1=</comment>
+      <origin>52606707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="dahcwaiydgef5fydsrmjtt559lltc7f" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ли́пла}}
+
+===Verb===
+{{head|ru|verb form|head=ли́пла}}
+
+# {{inflection of|ru|ли́пнуть||short|f|s|past|ind|impfv}}</text>
+      <sha1>dahcwaiydgef5fydsrmjtt559lltc7f</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>липло</title>
+    <ns>0</ns>
+    <id>5149179</id>
+    <revision>
+      <id>52606710</id>
+      <parentid>36380385</parentid>
+      <timestamp>2019-05-02T16:01:33Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      moved lang= in {{inflection of}} to 1=</comment>
+      <origin>52606710</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="hij66iq0e0qjmys7rold9ozenom1os4" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ли́пло}}
+
+===Verb===
+{{head|ru|verb form|head=ли́пло}}
+
+# {{inflection of|ru|ли́пнуть||short|n|s|past|ind|impfv}}</text>
+      <sha1>hij66iq0e0qjmys7rold9ozenom1os4</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>липли</title>
+    <ns>0</ns>
+    <id>5149180</id>
+    <revision>
+      <id>52606709</id>
+      <parentid>36380384</parentid>
+      <timestamp>2019-05-02T16:01:32Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      moved lang= in {{inflection of}} to 1=</comment>
+      <origin>52606709</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="sab2cai3zkofoccmqngwsmthdracy3f" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ли́пли}}
+
+===Verb===
+{{head|ru|verb form|head=ли́пли}}
+
+# {{inflection of|ru|ли́пнуть||short|p|past|ind|impfv}}</text>
+      <sha1>sab2cai3zkofoccmqngwsmthdracy3f</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>мыслился</title>
+    <ns>0</ns>
+    <id>5149181</id>
+    <revision>
+      <id>57111440</id>
+      <parentid>36381477</parentid>
+      <timestamp>2019-10-19T11:34:27Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111440</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="d68c0vh1r0hz5eoynid7iqq8o0d362u" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|мы́слился}}
+
+===Verb===
+{{head|ru|verb form|head=мы́слился}}
+
+# {{inflection of|ru|мы́слиться||m|s|past|ind|impfv}}</text>
+      <sha1>d68c0vh1r0hz5eoynid7iqq8o0d362u</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>мыслилась</title>
+    <ns>0</ns>
+    <id>5149182</id>
+    <revision>
+      <id>57111445</id>
+      <parentid>36381472</parentid>
+      <timestamp>2019-10-19T11:34:28Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111445</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="ruug049dhd85ouayjx9yjuuv9mm1jsy" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|мы́слилась}}
+
+===Verb===
+{{head|ru|verb form|head=мы́слилась}}
+
+# {{inflection of|ru|мы́слиться||f|s|past|ind|impfv}}</text>
+      <sha1>ruug049dhd85ouayjx9yjuuv9mm1jsy</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>мыслилось</title>
+    <ns>0</ns>
+    <id>5149183</id>
+    <revision>
+      <id>57111452</id>
+      <parentid>36381476</parentid>
+      <timestamp>2019-10-19T11:34:29Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111452</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="chwuaovq8jpn6mlk5j5f42e2vql5fs0" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|мы́слилось}}
+
+===Verb===
+{{head|ru|verb form|head=мы́слилось}}
+
+# {{inflection of|ru|мы́слиться||n|s|past|ind|impfv}}</text>
+      <sha1>chwuaovq8jpn6mlk5j5f42e2vql5fs0</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>мыслились</title>
+    <ns>0</ns>
+    <id>5149184</id>
+    <revision>
+      <id>57111458</id>
+      <parentid>36381474</parentid>
+      <timestamp>2019-10-19T11:34:29Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111458</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="jc7csx09xrcqa1gfhco17qut09xx4r5" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|мы́слились}}
+
+===Verb===
+{{head|ru|verb form|head=мы́слились}}
+
+# {{inflection of|ru|мы́слиться||p|past|ind|impfv}}</text>
+      <sha1>jc7csx09xrcqa1gfhco17qut09xx4r5</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>навеял</title>
+    <ns>0</ns>
+    <id>5149185</id>
+    <revision>
+      <id>57111464</id>
+      <parentid>36381681</parentid>
+      <timestamp>2019-10-19T11:34:30Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111464</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="173" sha1="r63s3v5ji9ahnyu1aueh48dmxjxi1ku" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|наве́ял}}
+
+===Verb===
+{{head|ru|verb form|head=наве́ял}}
+
+# {{inflection of|ru|наве́ять||m|s|past|ind|pfv}}</text>
+      <sha1>r63s3v5ji9ahnyu1aueh48dmxjxi1ku</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>навеяла</title>
+    <ns>0</ns>
+    <id>5149186</id>
+    <revision>
+      <id>57111469</id>
+      <parentid>36381682</parentid>
+      <timestamp>2019-10-19T11:34:31Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111469</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="2ipo1m87xku8mhajoczb5hu4uawbzwh" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|наве́яла}}
+
+===Verb===
+{{head|ru|verb form|head=наве́яла}}
+
+# {{inflection of|ru|наве́ять||f|s|past|ind|pfv}}</text>
+      <sha1>2ipo1m87xku8mhajoczb5hu4uawbzwh</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>навеяло</title>
+    <ns>0</ns>
+    <id>5149187</id>
+    <revision>
+      <id>57111477</id>
+      <parentid>36381684</parentid>
+      <timestamp>2019-10-19T11:34:32Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111477</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="czopbhgr8bdy6fw3isettmxphltimzt" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|наве́яло}}
+
+===Verb===
+{{head|ru|verb form|head=наве́яло}}
+
+# {{inflection of|ru|наве́ять||n|s|past|ind|pfv}}</text>
+      <sha1>czopbhgr8bdy6fw3isettmxphltimzt</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>навеяли</title>
+    <ns>0</ns>
+    <id>5149188</id>
+    <revision>
+      <id>57111484</id>
+      <parentid>36381683</parentid>
+      <timestamp>2019-10-19T11:34:33Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111484</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="iqi6j613s2hj31mq14f2t4qz36hf0n8" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|наве́яли}}
+
+===Verb===
+{{head|ru|verb form|head=наве́яли}}
+
+# {{inflection of|ru|наве́ять||p|past|ind|pfv}}</text>
+      <sha1>iqi6j613s2hj31mq14f2t4qz36hf0n8</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>одумался</title>
+    <ns>0</ns>
+    <id>5149189</id>
+    <revision>
+      <id>57111488</id>
+      <parentid>36386259</parentid>
+      <timestamp>2019-10-19T11:34:33Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111488</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="1inm3vizenfp1nkatfxuo5myn17556x" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|оду́мался}}
+
+===Verb===
+{{head|ru|verb form|head=оду́мался}}
+
+# {{inflection of|ru|оду́маться||m|s|past|ind|pfv}}</text>
+      <sha1>1inm3vizenfp1nkatfxuo5myn17556x</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>одумалась</title>
+    <ns>0</ns>
+    <id>5149190</id>
+    <revision>
+      <id>57111495</id>
+      <parentid>36386256</parentid>
+      <timestamp>2019-10-19T11:34:34Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111495</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="r98lrqrtdinvkebpy4v6dxy7mjxty3s" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|оду́малась}}
+
+===Verb===
+{{head|ru|verb form|head=оду́малась}}
+
+# {{inflection of|ru|оду́маться||f|s|past|ind|pfv}}</text>
+      <sha1>r98lrqrtdinvkebpy4v6dxy7mjxty3s</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>одумалось</title>
+    <ns>0</ns>
+    <id>5149191</id>
+    <revision>
+      <id>57111501</id>
+      <parentid>36386258</parentid>
+      <timestamp>2019-10-19T11:34:35Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111501</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="thp8xeork5x4cncrak3hbx3wb727vlm" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|оду́малось}}
+
+===Verb===
+{{head|ru|verb form|head=оду́малось}}
+
+# {{inflection of|ru|оду́маться||n|s|past|ind|pfv}}</text>
+      <sha1>thp8xeork5x4cncrak3hbx3wb727vlm</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>одумались</title>
+    <ns>0</ns>
+    <id>5149192</id>
+    <revision>
+      <id>57111509</id>
+      <parentid>36386257</parentid>
+      <timestamp>2019-10-19T11:34:36Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111509</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="1kgmi2w382h7afasamffnn7oxcqo0b1" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|оду́мались}}
+
+===Verb===
+{{head|ru|verb form|head=оду́мались}}
+
+# {{inflection of|ru|оду́маться||p|past|ind|pfv}}</text>
+      <sha1>1kgmi2w382h7afasamffnn7oxcqo0b1</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>отряхнул</title>
+    <ns>0</ns>
+    <id>5149193</id>
+    <revision>
+      <id>57111516</id>
+      <parentid>36389295</parentid>
+      <timestamp>2019-10-19T11:34:36Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111516</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="t6tqay8utya87hyhrcuq34bfwqm0cbh" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|отряхну́л}}
+
+===Verb===
+{{head|ru|verb form|head=отряхну́л}}
+
+# {{inflection of|ru|отряхну́ть||m|s|past|ind|pfv}}</text>
+      <sha1>t6tqay8utya87hyhrcuq34bfwqm0cbh</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>отряхнула</title>
+    <ns>0</ns>
+    <id>5149194</id>
+    <revision>
+      <id>57111522</id>
+      <parentid>36389296</parentid>
+      <timestamp>2019-10-19T11:34:37Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111522</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="bs2xm06i94jcakrljniko52lli6ncx7" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|отряхну́ла}}
+
+===Verb===
+{{head|ru|verb form|head=отряхну́ла}}
+
+# {{inflection of|ru|отряхну́ть||f|s|past|ind|pfv}}</text>
+      <sha1>bs2xm06i94jcakrljniko52lli6ncx7</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>отряхнуло</title>
+    <ns>0</ns>
+    <id>5149195</id>
+    <revision>
+      <id>57111528</id>
+      <parentid>36389298</parentid>
+      <timestamp>2019-10-19T11:34:38Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111528</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="1gqp0af72uc0o8aaq19y7et7zuq57tg" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|отряхну́ло}}
+
+===Verb===
+{{head|ru|verb form|head=отряхну́ло}}
+
+# {{inflection of|ru|отряхну́ть||n|s|past|ind|pfv}}</text>
+      <sha1>1gqp0af72uc0o8aaq19y7et7zuq57tg</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>отряхнули</title>
+    <ns>0</ns>
+    <id>5149196</id>
+    <revision>
+      <id>57111534</id>
+      <parentid>36389297</parentid>
+      <timestamp>2019-10-19T11:34:39Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111534</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="bzntx8iljj9urzn1pvqdl1oudw6e34y" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|отряхну́ли}}
+
+===Verb===
+{{head|ru|verb form|head=отряхну́ли}}
+
+# {{inflection of|ru|отряхну́ть||p|past|ind|pfv}}</text>
+      <sha1>bzntx8iljj9urzn1pvqdl1oudw6e34y</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>пересадил</title>
+    <ns>0</ns>
+    <id>5149197</id>
+    <revision>
+      <id>57111541</id>
+      <parentid>36390935</parentid>
+      <timestamp>2019-10-19T11:34:40Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111541</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="5vbvtwfyk4nd7snut28q3phmi5dbkwq" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|пересади́л}}
+
+===Verb===
+{{head|ru|verb form|head=пересади́л}}
+
+# {{inflection of|ru|пересади́ть||m|s|past|ind|pfv}}</text>
+      <sha1>5vbvtwfyk4nd7snut28q3phmi5dbkwq</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>пересадила</title>
+    <ns>0</ns>
+    <id>5149198</id>
+    <revision>
+      <id>57111547</id>
+      <parentid>36390936</parentid>
+      <timestamp>2019-10-19T11:34:40Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111547</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="195" sha1="f0k5hj4c9ka94rwl8cy3vfdbt83fy7t" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|пересади́ла}}
+
+===Verb===
+{{head|ru|verb form|head=пересади́ла}}
+
+# {{inflection of|ru|пересади́ть||f|s|past|ind|pfv}}</text>
+      <sha1>f0k5hj4c9ka94rwl8cy3vfdbt83fy7t</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>пересадило</title>
+    <ns>0</ns>
+    <id>5149199</id>
+    <revision>
+      <id>57111553</id>
+      <parentid>36390938</parentid>
+      <timestamp>2019-10-19T11:34:41Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111553</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="195" sha1="ewt3ucrtoh0wuzje0ejrro8hn31mfc8" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|пересади́ло}}
+
+===Verb===
+{{head|ru|verb form|head=пересади́ло}}
+
+# {{inflection of|ru|пересади́ть||n|s|past|ind|pfv}}</text>
+      <sha1>ewt3ucrtoh0wuzje0ejrro8hn31mfc8</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>пересадили</title>
+    <ns>0</ns>
+    <id>5149200</id>
+    <revision>
+      <id>57111559</id>
+      <parentid>36390937</parentid>
+      <timestamp>2019-10-19T11:34:42Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111559</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="193" sha1="91skr9np3iemjxzxwe495rcbkglmnxp" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|пересади́ли}}
+
+===Verb===
+{{head|ru|verb form|head=пересади́ли}}
+
+# {{inflection of|ru|пересади́ть||p|past|ind|pfv}}</text>
+      <sha1>91skr9np3iemjxzxwe495rcbkglmnxp</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>побросал</title>
+    <ns>0</ns>
+    <id>5149201</id>
+    <revision>
+      <id>57111565</id>
+      <parentid>38027701</parentid>
+      <timestamp>2019-10-19T11:34:43Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111565</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="76ztoac35aibxid1xnmqhgc8z9pin90" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|поброса́л}}
+
+===Verb===
+{{head|ru|verb form|head=поброса́л}}
+
+# {{inflection of|ru|поброса́ть||m|s|past|ind|pfv}}</text>
+      <sha1>76ztoac35aibxid1xnmqhgc8z9pin90</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>побросала</title>
+    <ns>0</ns>
+    <id>5149202</id>
+    <revision>
+      <id>57111570</id>
+      <parentid>38027702</parentid>
+      <timestamp>2019-10-19T11:34:44Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111570</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="knc2txm029hyovnipr34c7bysl3xx9p" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|поброса́ла}}
+
+===Verb===
+{{head|ru|verb form|head=поброса́ла}}
+
+# {{inflection of|ru|поброса́ть||f|s|past|ind|pfv}}</text>
+      <sha1>knc2txm029hyovnipr34c7bysl3xx9p</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>побросало</title>
+    <ns>0</ns>
+    <id>5149203</id>
+    <revision>
+      <id>57111576</id>
+      <parentid>38027703</parentid>
+      <timestamp>2019-10-19T11:34:45Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111576</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="5qt61qnuzp2m4twp4ix4avnlm9hdcay" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|поброса́ло}}
+
+===Verb===
+{{head|ru|verb form|head=поброса́ло}}
+
+# {{inflection of|ru|поброса́ть||n|s|past|ind|pfv}}</text>
+      <sha1>5qt61qnuzp2m4twp4ix4avnlm9hdcay</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>побросали</title>
+    <ns>0</ns>
+    <id>5149204</id>
+    <revision>
+      <id>57111582</id>
+      <parentid>38027704</parentid>
+      <timestamp>2019-10-19T11:34:46Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111582</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="j8z33cu1swmcfypluuzywvrtx65drr9" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|поброса́ли}}
+
+===Verb===
+{{head|ru|verb form|head=поброса́ли}}
+
+# {{inflection of|ru|поброса́ть||p|past|ind|pfv}}</text>
+      <sha1>j8z33cu1swmcfypluuzywvrtx65drr9</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>стекался</title>
+    <ns>0</ns>
+    <id>5149205</id>
+    <revision>
+      <id>57111589</id>
+      <parentid>36409422</parentid>
+      <timestamp>2019-10-19T11:34:46Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111589</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="hbhchslq5zjft6ckgzz85wxqnbulybo" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|стека́лся}}
+
+===Verb===
+{{head|ru|verb form|head=стека́лся}}
+
+# {{inflection of|ru|стека́ться||m|s|past|ind|impfv}}</text>
+      <sha1>hbhchslq5zjft6ckgzz85wxqnbulybo</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>стекалась</title>
+    <ns>0</ns>
+    <id>5149206</id>
+    <revision>
+      <id>57111596</id>
+      <parentid>36409417</parentid>
+      <timestamp>2019-10-19T11:34:47Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111596</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="9wtwp0b22qic0g4y9nyp0rib14iwqv8" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|стека́лась}}
+
+===Verb===
+{{head|ru|verb form|head=стека́лась}}
+
+# {{inflection of|ru|стека́ться||f|s|past|ind|impfv}}</text>
+      <sha1>9wtwp0b22qic0g4y9nyp0rib14iwqv8</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>стекалось</title>
+    <ns>0</ns>
+    <id>5149207</id>
+    <revision>
+      <id>57111602</id>
+      <parentid>36409421</parentid>
+      <timestamp>2019-10-19T11:34:48Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111602</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="2t49waj0hzmp5j5ml3w1y7mv1pzc6h1" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|стека́лось}}
+
+===Verb===
+{{head|ru|verb form|head=стека́лось}}
+
+# {{inflection of|ru|стека́ться||n|s|past|ind|impfv}}</text>
+      <sha1>2t49waj0hzmp5j5ml3w1y7mv1pzc6h1</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>стекались</title>
+    <ns>0</ns>
+    <id>5149208</id>
+    <revision>
+      <id>57111608</id>
+      <parentid>36409419</parentid>
+      <timestamp>2019-10-19T11:34:49Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111608</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="6fk67doaxqfig1kwcu3clp00pwqmp5l" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|стека́лись}}
+
+===Verb===
+{{head|ru|verb form|head=стека́лись}}
+
+# {{inflection of|ru|стека́ться||p|past|ind|impfv}}</text>
+      <sha1>6fk67doaxqfig1kwcu3clp00pwqmp5l</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>столпился</title>
+    <ns>0</ns>
+    <id>5149209</id>
+    <revision>
+      <id>57111615</id>
+      <parentid>36409574</parentid>
+      <timestamp>2019-10-19T11:34:49Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111615</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="qrkb27l648m4hiwnesjhpujiojjdquo" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|столпи́лся}}
+
+===Verb===
+{{head|ru|verb form|head=столпи́лся}}
+
+# {{inflection of|ru|столпи́ться||m|s|past|ind|pfv}}</text>
+      <sha1>qrkb27l648m4hiwnesjhpujiojjdquo</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>столпилась</title>
+    <ns>0</ns>
+    <id>5149210</id>
+    <revision>
+      <id>57111621</id>
+      <parentid>36409571</parentid>
+      <timestamp>2019-10-19T11:34:50Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111621</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="195" sha1="eygy5dg4jvtqnbl572v2073i17tiyp0" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|столпи́лась}}
+
+===Verb===
+{{head|ru|verb form|head=столпи́лась}}
+
+# {{inflection of|ru|столпи́ться||f|s|past|ind|pfv}}</text>
+      <sha1>eygy5dg4jvtqnbl572v2073i17tiyp0</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>столпилось</title>
+    <ns>0</ns>
+    <id>5149211</id>
+    <revision>
+      <id>57111627</id>
+      <parentid>36409573</parentid>
+      <timestamp>2019-10-19T11:34:51Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111627</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="195" sha1="erql3ogrn3bigzng5bcfp12yh3lzen4" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|столпи́лось}}
+
+===Verb===
+{{head|ru|verb form|head=столпи́лось}}
+
+# {{inflection of|ru|столпи́ться||n|s|past|ind|pfv}}</text>
+      <sha1>erql3ogrn3bigzng5bcfp12yh3lzen4</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>столпились</title>
+    <ns>0</ns>
+    <id>5149212</id>
+    <revision>
+      <id>57111633</id>
+      <parentid>36409572</parentid>
+      <timestamp>2019-10-19T11:34:52Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111633</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="193" sha1="3qcpdyxsmpr5e71uvta09vr9ewt9uki" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|столпи́лись}}
+
+===Verb===
+{{head|ru|verb form|head=столпи́лись}}
+
+# {{inflection of|ru|столпи́ться||p|past|ind|pfv}}</text>
+      <sha1>3qcpdyxsmpr5e71uvta09vr9ewt9uki</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>съезжался</title>
+    <ns>0</ns>
+    <id>5149213</id>
+    <revision>
+      <id>57111640</id>
+      <parentid>51257393</parentid>
+      <timestamp>2019-10-19T11:34:53Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111640</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="193" sha1="kcc5tngtzrt5ag3mmzth1khaw20g0me" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|съезжа́лся}}
+
+===Verb===
+{{head|ru|verb form|head=съезжа́лся}}
+
+# {{inflection of|ru|съезжа́ться||m|s|past|ind|impfv}}</text>
+      <sha1>kcc5tngtzrt5ag3mmzth1khaw20g0me</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>съезжалась</title>
+    <ns>0</ns>
+    <id>5149214</id>
+    <revision>
+      <id>57111647</id>
+      <parentid>51257394</parentid>
+      <timestamp>2019-10-19T11:34:54Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111647</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="raacgygbyjxn6mt0q2yxwrgtrcvyus7" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|съезжа́лась}}
+
+===Verb===
+{{head|ru|verb form|head=съезжа́лась}}
+
+# {{inflection of|ru|съезжа́ться||f|s|past|ind|impfv}}</text>
+      <sha1>raacgygbyjxn6mt0q2yxwrgtrcvyus7</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>съезжалось</title>
+    <ns>0</ns>
+    <id>5149215</id>
+    <revision>
+      <id>57111653</id>
+      <parentid>51257396</parentid>
+      <timestamp>2019-10-19T11:34:54Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111653</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="lir1mk8kjaa2zh8j6qfldry7y6zlaqy" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|съезжа́лось}}
+
+===Verb===
+{{head|ru|verb form|head=съезжа́лось}}
+
+# {{inflection of|ru|съезжа́ться||n|s|past|ind|impfv}}</text>
+      <sha1>lir1mk8kjaa2zh8j6qfldry7y6zlaqy</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>съезжались</title>
+    <ns>0</ns>
+    <id>5149216</id>
+    <revision>
+      <id>57111659</id>
+      <parentid>51257397</parentid>
+      <timestamp>2019-10-19T11:34:55Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111659</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="195" sha1="grtlxl38337r7l6nhg0co98qzalundp" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|съезжа́лись}}
+
+===Verb===
+{{head|ru|verb form|head=съезжа́лись}}
+
+# {{inflection of|ru|съезжа́ться||p|past|ind|impfv}}</text>
+      <sha1>grtlxl38337r7l6nhg0co98qzalundp</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>тормошил</title>
+    <ns>0</ns>
+    <id>5149217</id>
+    <revision>
+      <id>57111665</id>
+      <parentid>36410739</parentid>
+      <timestamp>2019-10-19T11:34:56Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111665</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="187" sha1="tpzl41fducnrax547h0rn46q3qhmggo" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|тормоши́л}}
+
+===Verb===
+{{head|ru|verb form|head=тормоши́л}}
+
+# {{inflection of|ru|тормоши́ть||m|s|past|ind|impfv}}</text>
+      <sha1>tpzl41fducnrax547h0rn46q3qhmggo</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>тормошила</title>
+    <ns>0</ns>
+    <id>5149218</id>
+    <revision>
+      <id>57111671</id>
+      <parentid>36410740</parentid>
+      <timestamp>2019-10-19T11:34:57Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111671</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="aizxq70imi9jz2ocov7w3igube0n1db" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|тормоши́ла}}
+
+===Verb===
+{{head|ru|verb form|head=тормоши́ла}}
+
+# {{inflection of|ru|тормоши́ть||f|s|past|ind|impfv}}</text>
+      <sha1>aizxq70imi9jz2ocov7w3igube0n1db</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>тормошило</title>
+    <ns>0</ns>
+    <id>5149219</id>
+    <revision>
+      <id>57111677</id>
+      <parentid>36410742</parentid>
+      <timestamp>2019-10-19T11:34:57Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111677</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="329roixjyjgeht5dyhk4uxumqu3qk6k" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|тормоши́ло}}
+
+===Verb===
+{{head|ru|verb form|head=тормоши́ло}}
+
+# {{inflection of|ru|тормоши́ть||n|s|past|ind|impfv}}</text>
+      <sha1>329roixjyjgeht5dyhk4uxumqu3qk6k</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>тормошили</title>
+    <ns>0</ns>
+    <id>5149220</id>
+    <revision>
+      <id>57111684</id>
+      <parentid>36410741</parentid>
+      <timestamp>2019-10-19T11:34:58Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="sjmsj2hxhmklid5ml9en4vvzirk4dts" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|тормоши́ли}}
+
+===Verb===
+{{head|ru|verb form|head=тормоши́ли}}
+
+# {{inflection of|ru|тормоши́ть||p|past|ind|impfv}}</text>
+      <sha1>sjmsj2hxhmklid5ml9en4vvzirk4dts</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>угробил</title>
+    <ns>0</ns>
+    <id>5149221</id>
+    <revision>
+      <id>57111691</id>
+      <parentid>36411955</parentid>
+      <timestamp>2019-10-19T11:34:59Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111691</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="179" sha1="3mc624w9zd4u4x0ks8qconxghd3fmgj" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|угро́бил}}
+
+===Verb===
+{{head|ru|verb form|head=угро́бил}}
+
+# {{inflection of|ru|угро́бить||m|s|past|ind|pfv}}</text>
+      <sha1>3mc624w9zd4u4x0ks8qconxghd3fmgj</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>угробила</title>
+    <ns>0</ns>
+    <id>5149222</id>
+    <revision>
+      <id>80070835</id>
+      <parentid>56038005</parentid>
+      <timestamp>2024-06-02T23:52:53Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      replace &lt;* {{audio|ru|Ru-угробила.ogg|Audio}}&gt; with &lt;* {{audio|ru|Ru-угробила.ogg}}&gt; (clean up audio captions)</comment>
+      <origin>80070835</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" sha1="1ku5pktal8kvujdg0dbca1bnwse2yil" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|угро́била}}
+* {{audio|ru|Ru-угробила.ogg}}
+
+===Verb===
+{{head|ru|verb form|head=угро́била}}
+
+# {{inflection of|ru|угро́бить||f|s|past|ind|pfv}}</text>
+      <sha1>1ku5pktal8kvujdg0dbca1bnwse2yil</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>угробило</title>
+    <ns>0</ns>
+    <id>5149223</id>
+    <revision>
+      <id>57111698</id>
+      <parentid>36411959</parentid>
+      <timestamp>2019-10-19T11:35:00Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111698</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="183" sha1="3pxxrrcjd47czqxar3r2vcnbj921jqb" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|угро́било}}
+
+===Verb===
+{{head|ru|verb form|head=угро́било}}
+
+# {{inflection of|ru|угро́бить||n|s|past|ind|pfv}}</text>
+      <sha1>3pxxrrcjd47czqxar3r2vcnbj921jqb</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>угробили</title>
+    <ns>0</ns>
+    <id>5149224</id>
+    <revision>
+      <id>57111705</id>
+      <parentid>36411957</parentid>
+      <timestamp>2019-10-19T11:35:01Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111705</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="181" sha1="qfbx1g8ja9wrrj4podz95hi82yxk6vn" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|угро́били}}
+
+===Verb===
+{{head|ru|verb form|head=угро́били}}
+
+# {{inflection of|ru|угро́бить||p|past|ind|pfv}}</text>
+      <sha1>qfbx1g8ja9wrrj4podz95hi82yxk6vn</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>уравновесил</title>
+    <ns>0</ns>
+    <id>5149225</id>
+    <revision>
+      <id>57111711</id>
+      <parentid>44373969</parentid>
+      <timestamp>2019-10-19T11:35:01Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111711</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="5877isoazxmd80ollisj9yhampy9p9j" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|уравнове́сил}}
+
+===Verb===
+{{head|ru|verb form|head=уравнове́сил}}
+
+# {{inflection of|ru|уравнове́сить||m|s|past|ind|pfv}}</text>
+      <sha1>5877isoazxmd80ollisj9yhampy9p9j</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>уравновесила</title>
+    <ns>0</ns>
+    <id>5149226</id>
+    <revision>
+      <id>57111717</id>
+      <parentid>44373973</parentid>
+      <timestamp>2019-10-19T11:35:02Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111717</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="3b2ghegap6v0fsj2twlkauep7fsv1nf" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|уравнове́сила}}
+
+===Verb===
+{{head|ru|verb form|head=уравнове́сила}}
+
+# {{inflection of|ru|уравнове́сить||f|s|past|ind|pfv}}</text>
+      <sha1>3b2ghegap6v0fsj2twlkauep7fsv1nf</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>уравновесило</title>
+    <ns>0</ns>
+    <id>5149227</id>
+    <revision>
+      <id>57111723</id>
+      <parentid>44373970</parentid>
+      <timestamp>2019-10-19T11:35:03Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111723</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="26fji9p6r3ja2xblnhzs9qlcro1fxhq" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|уравнове́сило}}
+
+===Verb===
+{{head|ru|verb form|head=уравнове́сило}}
+
+# {{inflection of|ru|уравнове́сить||n|s|past|ind|pfv}}</text>
+      <sha1>26fji9p6r3ja2xblnhzs9qlcro1fxhq</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>уравновесили</title>
+    <ns>0</ns>
+    <id>5149228</id>
+    <revision>
+      <id>57111729</id>
+      <parentid>44373971</parentid>
+      <timestamp>2019-10-19T11:35:04Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111729</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="a97z1i2ybxw6pf5arajjd3oba4u4jk6" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|уравнове́сили}}
+
+===Verb===
+{{head|ru|verb form|head=уравнове́сили}}
+
+# {{inflection of|ru|уравнове́сить||p|past|ind|pfv}}</text>
+      <sha1>a97z1i2ybxw6pf5arajjd3oba4u4jk6</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>вылепил</title>
+    <ns>0</ns>
+    <id>5149229</id>
+    <revision>
+      <id>57111735</id>
+      <parentid>36369161</parentid>
+      <timestamp>2019-10-19T11:35:04Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111735</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="179" sha1="mmfr8nk7ti243lvcyp30fuc0ffx0igj" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|вы́лепил}}
+
+===Verb===
+{{head|ru|verb form|head=вы́лепил}}
+
+# {{inflection of|ru|вы́лепить||m|s|past|ind|pfv}}</text>
+      <sha1>mmfr8nk7ti243lvcyp30fuc0ffx0igj</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>вылепила</title>
+    <ns>0</ns>
+    <id>5149230</id>
+    <revision>
+      <id>57111742</id>
+      <parentid>36369162</parentid>
+      <timestamp>2019-10-19T11:35:05Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111742</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="183" sha1="rwiaaxn62udh86i3r0qfzruwxzdabcx" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|вы́лепила}}
+
+===Verb===
+{{head|ru|verb form|head=вы́лепила}}
+
+# {{inflection of|ru|вы́лепить||f|s|past|ind|pfv}}</text>
+      <sha1>rwiaaxn62udh86i3r0qfzruwxzdabcx</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>вылепило</title>
+    <ns>0</ns>
+    <id>5149231</id>
+    <revision>
+      <id>57111748</id>
+      <parentid>36369164</parentid>
+      <timestamp>2019-10-19T11:35:06Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111748</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="183" sha1="s5256amujceu7ick25tjxkazlsnc2ht" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|вы́лепило}}
+
+===Verb===
+{{head|ru|verb form|head=вы́лепило}}
+
+# {{inflection of|ru|вы́лепить||n|s|past|ind|pfv}}</text>
+      <sha1>s5256amujceu7ick25tjxkazlsnc2ht</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>вылепили</title>
+    <ns>0</ns>
+    <id>5149232</id>
+    <revision>
+      <id>57111753</id>
+      <parentid>36369163</parentid>
+      <timestamp>2019-10-19T11:35:07Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111753</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="181" sha1="d0nbsmvl28pn358yaum8ny8f9srraxm" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|вы́лепили}}
+
+===Verb===
+{{head|ru|verb form|head=вы́лепили}}
+
+# {{inflection of|ru|вы́лепить||p|past|ind|pfv}}</text>
+      <sha1>d0nbsmvl28pn358yaum8ny8f9srraxm</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>переваривал</title>
+    <ns>0</ns>
+    <id>5149233</id>
+    <revision>
+      <id>57111760</id>
+      <parentid>36390397</parentid>
+      <timestamp>2019-10-19T11:35:07Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111760</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="fp6n41n48dp9o8j2o3buoxi41nbao1a" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|перева́ривал}}
+
+===Verb===
+{{head|ru|verb form|head=перева́ривал}}
+
+# {{inflection of|ru|перева́ривать||m|s|past|ind|impfv}}</text>
+      <sha1>fp6n41n48dp9o8j2o3buoxi41nbao1a</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>переваривала</title>
+    <ns>0</ns>
+    <id>5149234</id>
+    <revision>
+      <id>57111766</id>
+      <parentid>36390398</parentid>
+      <timestamp>2019-10-19T11:35:08Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111766</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="209" sha1="tdcfnk4i0fu23xq8dpw2cjs3ikfkv37" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|перева́ривала}}
+
+===Verb===
+{{head|ru|verb form|head=перева́ривала}}
+
+# {{inflection of|ru|перева́ривать||f|s|past|ind|impfv}}</text>
+      <sha1>tdcfnk4i0fu23xq8dpw2cjs3ikfkv37</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>переваривало</title>
+    <ns>0</ns>
+    <id>5149235</id>
+    <revision>
+      <id>57111773</id>
+      <parentid>36390400</parentid>
+      <timestamp>2019-10-19T11:35:09Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111773</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="209" sha1="hgs1hkl8i37rdurcgf3g8j3vchccwx8" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|перева́ривало}}
+
+===Verb===
+{{head|ru|verb form|head=перева́ривало}}
+
+# {{inflection of|ru|перева́ривать||n|s|past|ind|impfv}}</text>
+      <sha1>hgs1hkl8i37rdurcgf3g8j3vchccwx8</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>переваривали</title>
+    <ns>0</ns>
+    <id>5149236</id>
+    <revision>
+      <id>57111781</id>
+      <parentid>36390399</parentid>
+      <timestamp>2019-10-19T11:35:10Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111781</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="561dsskjfjlpcnc8dow6din8trdyifq" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|перева́ривали}}
+
+===Verb===
+{{head|ru|verb form|head=перева́ривали}}
+
+# {{inflection of|ru|перева́ривать||p|past|ind|impfv}}</text>
+      <sha1>561dsskjfjlpcnc8dow6din8trdyifq</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>перескочил</title>
+    <ns>0</ns>
+    <id>5149237</id>
+    <revision>
+      <id>57111788</id>
+      <parentid>36390984</parentid>
+      <timestamp>2019-10-19T11:35:11Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111788</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="rk30iqkyse12xk8li0l57j88g3914zu" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|перескочи́л}}
+
+===Verb===
+{{head|ru|verb form|head=перескочи́л}}
+
+# {{inflection of|ru|перескочи́ть||m|s|past|ind|pfv}}</text>
+      <sha1>rk30iqkyse12xk8li0l57j88g3914zu</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>перескочила</title>
+    <ns>0</ns>
+    <id>5149238</id>
+    <revision>
+      <id>57111794</id>
+      <parentid>36390985</parentid>
+      <timestamp>2019-10-19T11:35:12Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111794</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="201" sha1="dlhgv45mar2wywn81gdkn5dm2v6h0m4" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|перескочи́ла}}
+
+===Verb===
+{{head|ru|verb form|head=перескочи́ла}}
+
+# {{inflection of|ru|перескочи́ть||f|s|past|ind|pfv}}</text>
+      <sha1>dlhgv45mar2wywn81gdkn5dm2v6h0m4</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>перескочило</title>
+    <ns>0</ns>
+    <id>5149239</id>
+    <revision>
+      <id>57111800</id>
+      <parentid>36390987</parentid>
+      <timestamp>2019-10-19T11:35:13Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111800</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="201" sha1="g65l6fv4b26psf4iqk0ugo89rrth39f" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|перескочи́ло}}
+
+===Verb===
+{{head|ru|verb form|head=перескочи́ло}}
+
+# {{inflection of|ru|перескочи́ть||n|s|past|ind|pfv}}</text>
+      <sha1>g65l6fv4b26psf4iqk0ugo89rrth39f</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>перескочили</title>
+    <ns>0</ns>
+    <id>5149240</id>
+    <revision>
+      <id>57111806</id>
+      <parentid>36390986</parentid>
+      <timestamp>2019-10-19T11:35:13Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111806</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="199" sha1="fll66ucx21k2f8rupoyr28vfvewr1a7" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|перескочи́ли}}
+
+===Verb===
+{{head|ru|verb form|head=перескочи́ли}}
+
+# {{inflection of|ru|перескочи́ть||p|past|ind|pfv}}</text>
+      <sha1>fll66ucx21k2f8rupoyr28vfvewr1a7</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>поскрипывал</title>
+    <ns>0</ns>
+    <id>5149241</id>
+    <revision>
+      <id>57111812</id>
+      <parentid>36395616</parentid>
+      <timestamp>2019-10-19T11:35:14Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111812</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="n8se105gq9266srzc0hksci8rsg692x" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|поскри́пывал}}
+
+===Verb===
+{{head|ru|verb form|head=поскри́пывал}}
+
+# {{inflection of|ru|поскри́пывать||m|s|past|ind|impfv}}</text>
+      <sha1>n8se105gq9266srzc0hksci8rsg692x</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>поскрипывала</title>
+    <ns>0</ns>
+    <id>5149242</id>
+    <revision>
+      <id>57111818</id>
+      <parentid>36395617</parentid>
+      <timestamp>2019-10-19T11:35:15Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111818</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="209" sha1="ldma21m3hv7incxo5lqs2rmx7hrd2fu" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|поскри́пывала}}
+
+===Verb===
+{{head|ru|verb form|head=поскри́пывала}}
+
+# {{inflection of|ru|поскри́пывать||f|s|past|ind|impfv}}</text>
+      <sha1>ldma21m3hv7incxo5lqs2rmx7hrd2fu</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>поскрипывало</title>
+    <ns>0</ns>
+    <id>5149243</id>
+    <revision>
+      <id>57111824</id>
+      <parentid>36395619</parentid>
+      <timestamp>2019-10-19T11:35:16Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111824</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="209" sha1="7sicda4s14phd8kmrc7k00b7wlfj1t6" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|поскри́пывало}}
+
+===Verb===
+{{head|ru|verb form|head=поскри́пывало}}
+
+# {{inflection of|ru|поскри́пывать||n|s|past|ind|impfv}}</text>
+      <sha1>7sicda4s14phd8kmrc7k00b7wlfj1t6</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>поскрипывали</title>
+    <ns>0</ns>
+    <id>5149244</id>
+    <revision>
+      <id>57111832</id>
+      <parentid>36395618</parentid>
+      <timestamp>2019-10-19T11:35:16Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111832</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="gi4auxway2o5brr7jtrxj4ypq4ygz6f" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|поскри́пывали}}
+
+===Verb===
+{{head|ru|verb form|head=поскри́пывали}}
+
+# {{inflection of|ru|поскри́пывать||p|past|ind|impfv}}</text>
+      <sha1>gi4auxway2o5brr7jtrxj4ypq4ygz6f</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>умножал</title>
+    <ns>0</ns>
+    <id>5149245</id>
+    <revision>
+      <id>57111839</id>
+      <parentid>44373972</parentid>
+      <timestamp>2019-10-19T11:35:17Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111839</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="181" sha1="40bscdnqkddu3sxeu6z2pjizwhhk4sc" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|умножа́л}}
+
+===Verb===
+{{head|ru|verb form|head=умножа́л}}
+
+# {{inflection of|ru|умножа́ть||m|s|past|ind|impfv}}</text>
+      <sha1>40bscdnqkddu3sxeu6z2pjizwhhk4sc</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>умножала</title>
+    <ns>0</ns>
+    <id>5149246</id>
+    <revision>
+      <id>57111846</id>
+      <parentid>44373975</parentid>
+      <timestamp>2019-10-19T11:35:18Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111846</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="l6ycsb5u9e79t0shdlq0btm0cyq6l52" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|умножа́ла}}
+
+===Verb===
+{{head|ru|verb form|head=умножа́ла}}
+
+# {{inflection of|ru|умножа́ть||f|s|past|ind|impfv}}</text>
+      <sha1>l6ycsb5u9e79t0shdlq0btm0cyq6l52</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>умножало</title>
+    <ns>0</ns>
+    <id>5149247</id>
+    <revision>
+      <id>57111852</id>
+      <parentid>44373974</parentid>
+      <timestamp>2019-10-19T11:35:19Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111852</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="t1ndgwncywhx2hldrl0omj8sjbrsuce" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|умножа́ло}}
+
+===Verb===
+{{head|ru|verb form|head=умножа́ло}}
+
+# {{inflection of|ru|умножа́ть||n|s|past|ind|impfv}}</text>
+      <sha1>t1ndgwncywhx2hldrl0omj8sjbrsuce</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>умножали</title>
+    <ns>0</ns>
+    <id>5149248</id>
+    <revision>
+      <id>57111858</id>
+      <parentid>44373976</parentid>
+      <timestamp>2019-10-19T11:35:20Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111858</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="183" sha1="ijoi811glzx8xv1wyjql77urxgn6eby" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|умножа́ли}}
+
+===Verb===
+{{head|ru|verb form|head=умножа́ли}}
+
+# {{inflection of|ru|умножа́ть||p|past|ind|impfv}}</text>
+      <sha1>ijoi811glzx8xv1wyjql77urxgn6eby</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>могу</title>
+    <ns>0</ns>
+    <id>5149253</id>
+    <revision>
+      <id>57111866</id>
+      <parentid>44373981</parentid>
+      <timestamp>2019-10-19T11:35:21Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111866</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="159" sha1="t6nxvfatgyinvrykbvnk2v2r1ypo0yb" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|могу́}}
+
+===Verb===
+{{head|ru|verb form|head=могу́}}
+
+# {{inflection of|ru|мочь||1|s|pres|ind|impfv}}</text>
+      <sha1>t6nxvfatgyinvrykbvnk2v2r1ypo0yb</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>можешь</title>
+    <ns>0</ns>
+    <id>5149254</id>
+    <revision>
+      <id>79315845</id>
+      <parentid>57111874</parentid>
+      <timestamp>2024-05-21T13:08:27Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>79315845</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="445" sha1="bhpjm8445qad76ll0pnd09xhjhbfs09" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|мо́жешь}}
+
+===Verb===
+{{head|ru|verb form|head=мо́жешь}}
+
+# {{inflection of|ru|мочь||2|s|pres|ind|impfv}}
+#* {{w|Russian Synodal Bible}}, Mark 1.40:
+#*: {{quote|ru|Приходит к Нему прокаженный и, умоляя Его и падая пред Ним на колени, говорит Ему: если хочешь, '''можешь''' меня очистить.|}}</text>
+      <sha1>bhpjm8445qad76ll0pnd09xhjhbfs09</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>могут</title>
+    <ns>0</ns>
+    <id>5149255</id>
+    <revision>
+      <id>79398118</id>
+      <parentid>79398024</parentid>
+      <timestamp>2024-05-22T06:44:19Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>79398118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="454" sha1="magcsavtvisbrojnct6uqgdgrrf2368" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|мо́гут}}
+
+===Verb===
+{{head|ru|verb form|head=мо́гут}}
+
+# {{inflection of|ru|мочь||3|p|pres|ind|impfv}}
+#* {{w|Russian Synodal Bible}}, Mark 2.19:
+#*: {{quote|ru|И сказал им Иисус: '''могут''' ли поститься сыны чертога брачного, когда с ними жених? Доколе с ними жених, не '''могут''' поститься,|}}</text>
+      <sha1>magcsavtvisbrojnct6uqgdgrrf2368</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>моги</title>
+    <ns>0</ns>
+    <id>5149256</id>
+    <revision>
+      <id>57111886</id>
+      <parentid>36381088</parentid>
+      <timestamp>2019-10-19T11:35:23Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111886</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="154" sha1="sjn59q79ldmwb951op046mz8ezzb427" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|моги́}}
+
+===Verb===
+{{head|ru|verb form|head=моги́}}
+
+# {{inflection of|ru|мочь||2|s|imp|impfv}}</text>
+      <sha1>sjn59q79ldmwb951op046mz8ezzb427</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>могите</title>
+    <ns>0</ns>
+    <id>5149257</id>
+    <revision>
+      <id>57111893</id>
+      <parentid>36522675</parentid>
+      <timestamp>2019-10-19T11:35:24Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111893</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="3nar5dxx0akczywevytftfmqjc1es37" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|моги́те|pos=v}}
+
+===Verb===
+{{head|ru|verb form|head=моги́те}}
+
+# {{inflection of|ru|мочь||2|p|imp|impfv}}</text>
+      <sha1>3nar5dxx0akczywevytftfmqjc1es37</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>скажу</title>
+    <ns>0</ns>
+    <id>5149258</id>
+    <revision>
+      <id>78334367</id>
+      <parentid>71905917</parentid>
+      <timestamp>2024-03-06T02:48:47Z</timestamp>
+      <contributor>
+        <username>Kohannya</username>
+        <id>4021255</id>
+      </contributor>
+      Adding forms of Belarusian [[сказаць]] ([[WT:ACCEL|Accelerated]])</comment>
+      <origin>78334367</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="499" sha1="4vmq4fhfhoa675t8q2bpqvloizco58j" xml:space="preserve">==Belarusian==
+
+===Pronunciation===
+* {{be-IPA|скажу́}}
+
+===Verb===
+{{head|be|verb form|head=скажу́}}
+
+# {{infl of|be|сказа́ць||1|s|fut|ind}}
+
+==Russian==
+
+===Pronunciation===
+* {{ru-IPA|скажу́}}
+
+===Verb===
+{{head|ru|verb form|head=скажу́}}
+
+# {{inflection of|ru|сказа́ть||1|s|fut|ind|pfv}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|скажу́}}
+
+===Verb===
+{{head|uk|verb form|head=скажу́}}
+
+# {{inflection of|uk|сказа́ти||1|s|fut|pfv}}</text>
+      <sha1>4vmq4fhfhoa675t8q2bpqvloizco58j</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>скажешь</title>
+    <ns>0</ns>
+    <id>5149259</id>
+    <revision>
+      <id>57111904</id>
+      <parentid>36406272</parentid>
+      <timestamp>2019-10-19T11:35:25Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111904</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="nk8dd9n0uyt582z5zvpttwiqbq9ok4m" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ска́жешь}}
+
+===Verb===
+{{head|ru|verb form|head=ска́жешь}}
+
+# {{inflection of|ru|сказа́ть||2|s|fut|ind|pfv}}</text>
+      <sha1>nk8dd9n0uyt582z5zvpttwiqbq9ok4m</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>скажет</title>
+    <ns>0</ns>
+    <id>5149260</id>
+    <revision>
+      <id>79429036</id>
+      <parentid>57111910</parentid>
+      <timestamp>2024-05-26T09:46:43Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>79429036</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="385" sha1="jzw0twi29xd3cvtaecdj3uesosm4512" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ска́жет}}
+
+===Verb===
+{{head|ru|verb form|head=ска́жет}}
+
+# {{inflection of|ru|сказа́ть||3|s|fut|ind|pfv}}
+#* {{RQ:RSB|Mark|7|11|А вы говорите: кто '''скажет''' отцу или матери: корван, то есть дар Богу то́, чем бы ты от меня пользовался,}}</text>
+      <sha1>jzw0twi29xd3cvtaecdj3uesosm4512</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>скажете</title>
+    <ns>0</ns>
+    <id>5149261</id>
+    <revision>
+      <id>71905925</id>
+      <parentid>67662685</parentid>
+      <timestamp>2023-03-17T20:40:00Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      remove horizontal rule separators per [[Wiktionary:Votes/2023-02/Removing the horizontal rule]]</comment>
+      <origin>71905925</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="358" sha1="sj9r2704ttpw3dfmqbd5n7f35bpfceo" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ска́жете|pos=v}}
+
+===Verb===
+{{head|ru|verb form|head=ска́жете}}
+
+# {{inflection of|ru|сказа́ть||2|p|fut|ind|pfv}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|ска́жете}}
+
+===Verb===
+{{head|uk|verb form|head=ска́жете}}
+
+# {{inflection of|uk|сказа́ти||2|p|fut|pfv}}</text>
+      <sha1>sj9r2704ttpw3dfmqbd5n7f35bpfceo</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>скажут</title>
+    <ns>0</ns>
+    <id>5149262</id>
+    <revision>
+      <id>57111922</id>
+      <parentid>36406276</parentid>
+      <timestamp>2019-10-19T11:35:28Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111922</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="172" sha1="mywv2s8clo984vrst4px03h4am37b2v" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ска́жут}}
+
+===Verb===
+{{head|ru|verb form|head=ска́жут}}
+
+# {{inflection of|ru|сказа́ть||3|p|fut|ind|pfv}}</text>
+      <sha1>mywv2s8clo984vrst4px03h4am37b2v</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>скажи</title>
+    <ns>0</ns>
+    <id>5149263</id>
+    <revision>
+      <id>80471260</id>
+      <parentid>80471259</parentid>
+      <timestamp>2024-06-21T06:43:44Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>80471260</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="536" sha1="f0qavm7uhxx93qjiwts8kzos42klxt2" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|скажи́}}
+* {{audio|ru|Ru-скажи.ogg}}
+
+===Verb===
+{{head|ru|verb form|head=скажи́}}
+
+# {{inflection of|ru|сказа́ть||2|s|imp|pfv}}
+#* {{RQ:RSB|Mark|13|4|'''скажи''' нам, когда это будет, и какой признак, когда всё сие должно совершиться?}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|скажи́}}
+
+===Verb===
+{{head|uk|verb form|head=скажи́}}
+
+# {{inflection of|uk|сказа́ти||2|s|imp|pfv}}</text>
+      <sha1>f0qavm7uhxx93qjiwts8kzos42klxt2</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>скажите</title>
+    <ns>0</ns>
+    <id>5149264</id>
+    <revision>
+      <id>80070854</id>
+      <parentid>56038016</parentid>
+      <timestamp>2024-06-02T23:52:56Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      replace &lt;* {{audio|ru|Ru-скажите.ogg|Audio}}&gt; with &lt;* {{audio|ru|Ru-скажите.ogg}}&gt; (clean up audio captions)</comment>
+      <origin>80070854</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="215" sha1="d9yy0g31txhw5af2m4yzut923hdjdsh" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|скажи́те|pos=v}}
+* {{audio|ru|Ru-скажите.ogg}}
+
+===Verb===
+{{head|ru|verb form|head=скажи́те}}
+
+# {{inflection of|ru|сказа́ть||2|p|imp|pfv}}</text>
+      <sha1>d9yy0g31txhw5af2m4yzut923hdjdsh</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>говорю</title>
+    <ns>0</ns>
+    <id>5149265</id>
+    <revision>
+      <id>79367547</id>
+      <parentid>71905942</parentid>
+      <timestamp>2024-05-21T22:22:55Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>79367547</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="547" sha1="hr09n3ciaht8yor1sus84iznkolkv9b" xml:space="preserve">{{also|говору}}
+==Russian==
+
+===Pronunciation===
+* {{ru-IPA|говорю́}}
+
+===Verb===
+{{head|ru|verb form|head=говорю́}}
+
+# {{inflection of|ru|говори́ть||1|s|pres|ind|impfv}}
+#* {{w|Russian Synodal Bible}}, Mark 2.11:
+#*: {{quote|ru|тебе '''говорю''': встань, возьми постель твою и иди в дом твой.|}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|говорю́}}
+
+===Verb===
+{{head|uk|verb form|head=говорю́}}
+
+# {{inflection of|uk|говори́ти||1|s|pres|impfv}}</text>
+      <sha1>hr09n3ciaht8yor1sus84iznkolkv9b</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>говорит</title>
+    <ns>0</ns>
+    <id>5149266</id>
+    <revision>
+      <id>79315563</id>
+      <parentid>57111937</parentid>
+      <timestamp>2024-05-21T12:22:56Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>79315563</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="433" sha1="j4yb9yeljiq22575hx7nrng39hsqfsd" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|говори́т}}
+
+===Verb===
+{{head|ru|verb form|head=говори́т}}
+
+# {{inflection of|ru|говори́ть||3|s|pres|ind|impfv}}
+#* {{w|Russian Synodal Bible}}, Mark 1.38:
+#*: {{quote|ru|Он '''говорит''' им: пойдем в ближние селения и города, чтобы Мне и там проповедовать, ибо Я для того пришел.|}}</text>
+      <sha1>j4yb9yeljiq22575hx7nrng39hsqfsd</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>станешь</title>
+    <ns>0</ns>
+    <id>5149267</id>
+    <revision>
+      <id>57111944</id>
+      <parentid>40602502</parentid>
+      <timestamp>2019-10-19T11:35:30Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111944</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" sha1="2z144ifrym3fjls03l0v07gn71drp1c" xml:space="preserve">{{also|стянешь}}
+==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ста́нешь}}
+
+===Verb===
+{{head|ru|verb form|head=ста́нешь}}
+
+# {{inflection of|ru|стать||2|s|fut|ind|pfv}}</text>
+      <sha1>2z144ifrym3fjls03l0v07gn71drp1c</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>станет</title>
+    <ns>0</ns>
+    <id>5149268</id>
+    <revision>
+      <id>58821614</id>
+      <parentid>58821550</parentid>
+      <timestamp>2020-03-07T20:51:14Z</timestamp>
+      <contributor>
+        <username>Robbie SWE</username>
+        <id>24343</id>
+      </contributor>
+      <minor />
+      Reverted edits by [[Special:Contributions/68.2.129.185|68.2.129.185]]. If you think this rollback is in error, please leave a message on my talk page.</comment>
+      <origin>57111951</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="188" sha1="37xff43kilk8m0tqhgijamnqqy1uufk" xml:space="preserve">{{also|стянет}}
+==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ста́нет}}
+
+===Verb===
+{{head|ru|verb form|head=ста́нет}}
+
+# {{inflection of|ru|стать||3|s|fut|ind|pfv}}</text>
+      <sha1>37xff43kilk8m0tqhgijamnqqy1uufk</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>станем</title>
+    <ns>0</ns>
+    <id>5149269</id>
+    <revision>
+      <id>57111957</id>
+      <parentid>46665245</parentid>
+      <timestamp>2019-10-19T11:35:32Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111957</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="188" sha1="mv4ogfl6cn86kdwghaaec115ysqhqxx" xml:space="preserve">{{also|стянем}}
+==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ста́нем}}
+
+===Verb===
+{{head|ru|verb form|head=ста́нем}}
+
+# {{inflection of|ru|стать||1|p|fut|ind|pfv}}</text>
+      <sha1>mv4ogfl6cn86kdwghaaec115ysqhqxx</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>станете</title>
+    <ns>0</ns>
+    <id>5149270</id>
+    <revision>
+      <id>57111967</id>
+      <parentid>46665244</parentid>
+      <timestamp>2019-10-19T11:35:33Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111967</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="td4bq4bwii8wujh5wnfzwzvgj5xcnsz" xml:space="preserve">{{also|стянете}}
+==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ста́нете|pos=v}}
+
+===Verb===
+{{head|ru|verb form|head=ста́нете}}
+
+# {{inflection of|ru|стать||2|p|fut|ind|pfv}}</text>
+      <sha1>td4bq4bwii8wujh5wnfzwzvgj5xcnsz</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>станут</title>
+    <ns>0</ns>
+    <id>5149271</id>
+    <revision>
+      <id>57111973</id>
+      <parentid>40602572</parentid>
+      <timestamp>2019-10-19T11:35:34Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57111973</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="188" sha1="ba0uwtxa46uspiqhhj81hio0zjbljq7" xml:space="preserve">{{also|стянут}}
+==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ста́нут}}
+
+===Verb===
+{{head|ru|verb form|head=ста́нут}}
+
+# {{inflection of|ru|стать||3|p|fut|ind|pfv}}</text>
+      <sha1>ba0uwtxa46uspiqhhj81hio0zjbljq7</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>стань</title>
+    <ns>0</ns>
+    <id>5149272</id>
+    <revision>
+      <id>80183377</id>
+      <parentid>79402784</parentid>
+      <timestamp>2024-06-08T23:18:35Z</timestamp>
+      <contributor>
+        <username>AutoDooz</username>
+        <id>3732454</id>
+      </contributor>
+      <minor />
+      /*Russian:Verb*/ #1:2 fixed quote style</comment>
+      <origin>80183377</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="598" sha1="rvszi9enbtb1a2w0ic4k0o0fh0j2457" xml:space="preserve">{{also|станъ}}
+==Belarusian==
+
+===Pronunciation===
+* {{be-IPA|стань}}
+
+===Verb===
+{{head|be|verb form}}
+
+# {{infl of|be|стаць||2|s|imp}}
+
+==Russian==
+
+===Pronunciation===
+* {{ru-IPA}}
+
+===Verb===
+{{head|ru|verb form}}
+
+# {{inflection of|ru|стать||2|s|imp|pfv}}
+#: {{w|Russian Synodal Bible}}, Mark 3.3:
+#* {{quote|ru|Он же говорит человеку, имевшему иссохшую руку: '''стань''' на средину.|}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|стань}}
+
+===Verb===
+{{head|uk|verb form}}
+
+# {{infl of|uk|ста́ти||2|s|imp}}</text>
+      <sha1>rvszi9enbtb1a2w0ic4k0o0fh0j2457</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>станьте</title>
+    <ns>0</ns>
+    <id>5149273</id>
+    <revision>
+      <id>71905950</id>
+      <parentid>70334976</parentid>
+      <timestamp>2023-03-17T20:40:02Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      remove horizontal rule separators per [[Wiktionary:Votes/2023-02/Removing the horizontal rule]]</comment>
+      <origin>71905950</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="344" sha1="qnnkx5e1thow95htx1aip42ac04ul24" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ста́ньте|pos=v}}
+
+===Verb===
+{{head|ru|verb form|head=ста́ньте}}
+
+# {{inflection of|ru|стать||2|p|imp|pfv}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|ста́ньте}}
+
+===Verb===
+{{head|uk|verb form|head=ста́ньте}}
+
+# {{inflection of|uk|ста́ти||2|p|imp|pfv}}</text>
+      <sha1>qnnkx5e1thow95htx1aip42ac04ul24</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>хочу</title>
+    <ns>0</ns>
+    <id>5149274</id>
+    <revision>
+      <id>79315873</id>
+      <parentid>71905959</parentid>
+      <timestamp>2024-05-21T13:13:12Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>79315873</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="918" sha1="cks38nuoicvix79gc2t9s4yg80d2v0g" xml:space="preserve">==Old East Slavic==
+
+===Alternative forms===
+* {{alt|orv|хочю}}
+
+===Verb===
+{{head|orv|verb form}}
+
+# {{inflection of|p=v|orv|хотѣти||1|sg|pres}}
+
+===Further reading===
+* {{R:orv:izb1076|не хочу|-6|113}}
+* {{R:orv:izb1076|хочю|5|189}}
+
+==Russian==
+
+===Pronunciation===
+* {{ru-IPA|хочу́}}
+
+===Verb===
+{{head|ru|verb form|head=хочу́}}
+
+# {{inflection of|ru|хоте́ть||1|s|pres|ind|impfv}}
+#* {{w|Russian Synodal Bible}}, Mark 1.41:
+#*: {{quote|ru|Иисус, умилосердившись над ним, простер руку, коснулся его и сказал ему: '''хочу''', очистись.|}}
+#: {{ux|ru|[[я|Я]] хочу́ [[име́ть]] [[друзе́й]].|t=I want to have friends.|inline=y}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|хо́чу}}
+
+===Verb===
+{{head|uk|verb form|head=хо́чу}}
+
+# {{inflection of|uk|хоті́ти||1|s|pres|impfv}}</text>
+      <sha1>cks38nuoicvix79gc2t9s4yg80d2v0g</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>хочешь</title>
+    <ns>0</ns>
+    <id>5149275</id>
+    <revision>
+      <id>79315843</id>
+      <parentid>57112000</parentid>
+      <timestamp>2024-05-21T13:07:41Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>79315843</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="451" sha1="l6no9bl40z1bnpcq6aoopx3nol72yr2" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|хо́чешь}}
+
+===Verb===
+{{head|ru|verb form|head=хо́чешь}}
+
+# {{inflection of|ru|хоте́ть||2|s|pres|ind|impfv}}
+#* {{w|Russian Synodal Bible}}, Mark 1.40:
+#*: {{quote|ru|Приходит к Нему прокаженный и, умоляя Его и падая пред Ним на колени, говорит Ему: если '''хочешь''', можешь меня очистить.|}}</text>
+      <sha1>l6no9bl40z1bnpcq6aoopx3nol72yr2</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>хочет</title>
+    <ns>0</ns>
+    <id>5149276</id>
+    <revision>
+      <id>80158712</id>
+      <parentid>57112008</parentid>
+      <timestamp>2024-06-07T07:07:41Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>80158712</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="427" sha1="q74qadbwjlc58rzlromm3s6h9o4d2id" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|хо́чет}}
+
+===Verb===
+{{head|ru|verb form|head=хо́чет}}
+
+# {{inflection of|ru|хоте́ть||3|s|pres|ind|impfv}}
+#* {{RQ:RSB|Mark|8|34|И, подозвав народ с учениками Своими, сказал им: кто '''хочет''' идти за Мною, отвергнись себя, и возьми крест свой, и следуй за Мною.}}</text>
+      <sha1>q74qadbwjlc58rzlromm3s6h9o4d2id</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>хотим</title>
+    <ns>0</ns>
+    <id>5149277</id>
+    <revision>
+      <id>57112013</id>
+      <parentid>44373988</parentid>
+      <timestamp>2019-10-19T11:35:39Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112013</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="t0x5ul614aqpvadkbt8s05pt5hw5d21" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|хоти́м}}
+
+===Verb===
+{{head|ru|verb form|head=хоти́м}}
+
+# {{inflection of|ru|хоте́ть||1|p|pres|ind|impfv}}</text>
+      <sha1>t0x5ul614aqpvadkbt8s05pt5hw5d21</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>хотят</title>
+    <ns>0</ns>
+    <id>5149278</id>
+    <revision>
+      <id>64260969</id>
+      <parentid>58943979</parentid>
+      <timestamp>2021-10-17T16:29:53Z</timestamp>
+      <contributor>
+        <username>SurjectionBot</username>
+        <id>3456416</id>
+      </contributor>
+      (bot) add rhyme syllable count obtained from Rhymes: pages</comment>
+      <origin>64260969</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="192" sha1="djb83a7t0a1a4tb4klxwm7qhjv41u5s" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|хотя́т}}
+* {{rhymes|ru|at|s=2}}
+
+===Verb===
+{{head|ru|verb form|head=хотя́т}}
+
+# {{inflection of|ru|хоте́ть||3|p|pres|ind|impfv}}</text>
+      <sha1>djb83a7t0a1a4tb4klxwm7qhjv41u5s</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>хоти</title>
+    <ns>0</ns>
+    <id>5149279</id>
+    <revision>
+      <id>71905966</id>
+      <parentid>71313875</parentid>
+      <timestamp>2023-03-17T20:40:03Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      remove horizontal rule separators per [[Wiktionary:Votes/2023-02/Removing the horizontal rule]]</comment>
+      <origin>71905966</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="429" sha1="gy9075s5yjle5tbhuv0bic8dgtjrju2" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|хоти́}}
+
+===Verb===
+{{head|ru|verb form|head=хоти́}}
+
+# {{inflection of|ru|хоте́ть||2|s|imp|g=impf}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|хоти́}}
+
+===Verb===
+{{head|uk|verb form|head=хоти́}}
+
+# {{inflection of|uk|хоті́ти||2|s|imp|g=impf}}
+
+===Verb===
+{{head|uk|verb form|head=хоти́}}
+
+# {{inflection of|uk|хті́ти||2|s|imp|g=impf}}</text>
+      <sha1>gy9075s5yjle5tbhuv0bic8dgtjrju2</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>имею</title>
+    <ns>0</ns>
+    <id>5149280</id>
+    <revision>
+      <id>57112031</id>
+      <parentid>44373994</parentid>
+      <timestamp>2019-10-19T11:35:42Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112031</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="163" sha1="gybrqwmqpa4q5oblr1t51q39nhvjuvo" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|име́ю}}
+
+===Verb===
+{{head|ru|verb form|head=име́ю}}
+
+# {{inflection of|ru|име́ть||1|s|pres|ind|impfv}}</text>
+      <sha1>gybrqwmqpa4q5oblr1t51q39nhvjuvo</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>имеешь</title>
+    <ns>0</ns>
+    <id>5149281</id>
+    <revision>
+      <id>57112038</id>
+      <parentid>44373993</parentid>
+      <timestamp>2019-10-19T11:35:43Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112038</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="171" sha1="rl1df3e4ryh0cwccs1av3wjuaz98r5f" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|име́ешь}}
+
+===Verb===
+{{head|ru|verb form|head=име́ешь}}
+
+# {{inflection of|ru|име́ть||2|s|pres|ind|impfv}}</text>
+      <sha1>rl1df3e4ryh0cwccs1av3wjuaz98r5f</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>имеет</title>
+    <ns>0</ns>
+    <id>5149282</id>
+    <revision>
+      <id>79367237</id>
+      <parentid>57112044</parentid>
+      <timestamp>2024-05-21T22:22:10Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>79367237</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="424" sha1="7du9gl1b6ecxfvl6cdet97nhvpfvkp6" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|име́ет}}
+
+===Verb===
+{{head|ru|verb form|head=име́ет}}
+
+# {{inflection of|ru|име́ть||3|s|pres|ind|impfv}}
+#* {{w|Russian Synodal Bible}}, Mark 2.10:
+#*: {{quote|ru|Но чтобы вы знали, что Сын Человеческий '''имеет''' власть на земле прощать грехи, — говорит расслабленному…|}}</text>
+      <sha1>7du9gl1b6ecxfvl6cdet97nhvpfvkp6</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>имеем</title>
+    <ns>0</ns>
+    <id>5149283</id>
+    <revision>
+      <id>57112052</id>
+      <parentid>44373995</parentid>
+      <timestamp>2019-10-19T11:35:44Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112052</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="q61vy4rb7f4mih9eekbdjqaf6byzyl3" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|име́ем}}
+
+===Verb===
+{{head|ru|verb form|head=име́ем}}
+
+# {{inflection of|ru|име́ть||1|p|pres|ind|impfv}}</text>
+      <sha1>q61vy4rb7f4mih9eekbdjqaf6byzyl3</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>имеете</title>
+    <ns>0</ns>
+    <id>5149284</id>
+    <revision>
+      <id>57112058</id>
+      <parentid>44373996</parentid>
+      <timestamp>2019-10-19T11:35:45Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112058</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="9dse8b4zps85nymr59yiwbwgnreyz49" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|име́ете|pos=v}}
+
+===Verb===
+{{head|ru|verb form|head=име́ете}}
+
+# {{inflection of|ru|име́ть||2|p|pres|ind|impfv}}</text>
+      <sha1>9dse8b4zps85nymr59yiwbwgnreyz49</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>имеют</title>
+    <ns>0</ns>
+    <id>5149285</id>
+    <revision>
+      <id>79372374</id>
+      <parentid>57112064</parentid>
+      <timestamp>2024-05-21T22:35:33Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>79372374</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="478" sha1="05kk6mj298zklvtovbnwe08hbgnoorh" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|име́ют}}
+
+===Verb===
+{{head|ru|verb form|head=име́ют}}
+
+# {{inflection of|ru|име́ть||3|p|pres|ind|impfv}}
+#* {{w|Russian Synodal Bible}}, Mark 2.17:
+#*: {{quote|ru|Услышав сие, Иисус говорит им: не здоровые '''имеют''' нужду во враче, но больные; Я пришел призвать не праведников, но грешников к покаянию.|}}</text>
+      <sha1>05kk6mj298zklvtovbnwe08hbgnoorh</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>имей</title>
+    <ns>0</ns>
+    <id>5149286</id>
+    <revision>
+      <id>57112070</id>
+      <parentid>36377926</parentid>
+      <timestamp>2019-10-19T11:35:47Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112070</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="158" sha1="gi914a1gbmvwao85wa38w29f0gvev6g" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|име́й}}
+
+===Verb===
+{{head|ru|verb form|head=име́й}}
+
+# {{inflection of|ru|име́ть||2|s|imp|impfv}}</text>
+      <sha1>gi914a1gbmvwao85wa38w29f0gvev6g</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>имейте</title>
+    <ns>0</ns>
+    <id>5149287</id>
+    <revision>
+      <id>57112076</id>
+      <parentid>36522231</parentid>
+      <timestamp>2019-10-19T11:35:48Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112076</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="172" sha1="10cvfoxprgqeraygsc4ev8capcwlew6" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|име́йте|pos=v}}
+
+===Verb===
+{{head|ru|verb form|head=име́йте}}
+
+# {{inflection of|ru|име́ть||2|p|imp|impfv}}</text>
+      <sha1>10cvfoxprgqeraygsc4ev8capcwlew6</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>думаю</title>
+    <ns>0</ns>
+    <id>5149288</id>
+    <revision>
+      <id>71905975</id>
+      <parentid>67116696</parentid>
+      <timestamp>2023-03-17T20:40:04Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      remove horizontal rule separators per [[Wiktionary:Votes/2023-02/Removing the horizontal rule]]</comment>
+      <origin>71905975</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="342" sha1="j7em4fu1idht4s1eehlr125f0zli97a" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ду́маю}}
+
+===Verb===
+{{head|ru|verb form|head=ду́маю}}
+
+# {{inflection of|ru|ду́мать||1|s|pres|ind|impfv}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|ду́маю}}
+
+===Verb===
+{{head|uk|verb form|head=ду́маю}}
+
+# {{inflection of|uk|ду́мати||1|s|pres|ind|impfv}}</text>
+      <sha1>j7em4fu1idht4s1eehlr125f0zli97a</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>думаешь</title>
+    <ns>0</ns>
+    <id>5149289</id>
+    <revision>
+      <id>80158687</id>
+      <parentid>57112088</parentid>
+      <timestamp>2024-06-07T06:57:06Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>80158687</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="495" sha1="b30rgblbmj2e40e9ecvoqzx54xg6odl" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ду́маешь}}
+
+===Verb===
+{{head|ru|verb form|head=ду́маешь}}
+
+# {{inflection of|ru|ду́мать||2|s|pres|ind|impfv}}
+#* {{RQ:RSB|Mark|8|33|Он же, обратившись и взглянув на учеников Своих, воспретил Петру, сказав: отойди от Меня, сатана, потому что ты '''думаешь''' не о том, что Божие, но что человеческое.}}</text>
+      <sha1>b30rgblbmj2e40e9ecvoqzx54xg6odl</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>думает</title>
+    <ns>0</ns>
+    <id>5149290</id>
+    <revision>
+      <id>57112095</id>
+      <parentid>36372886</parentid>
+      <timestamp>2019-10-19T11:35:50Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112095</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="173" sha1="60lzz7y9n4bj4o1y8xwzu2nqpdenyd4" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ду́мает}}
+
+===Verb===
+{{head|ru|verb form|head=ду́мает}}
+
+# {{inflection of|ru|ду́мать||3|s|pres|ind|impfv}}</text>
+      <sha1>60lzz7y9n4bj4o1y8xwzu2nqpdenyd4</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>думаем</title>
+    <ns>0</ns>
+    <id>5149291</id>
+    <revision>
+      <id>57112104</id>
+      <parentid>36372885</parentid>
+      <timestamp>2019-10-19T11:35:51Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112104</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="173" sha1="p2f71a3dg7v7t05clgr3ftbqsm9evqk" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ду́маем}}
+
+===Verb===
+{{head|ru|verb form|head=ду́маем}}
+
+# {{inflection of|ru|ду́мать||1|p|pres|ind|impfv}}</text>
+      <sha1>p2f71a3dg7v7t05clgr3ftbqsm9evqk</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>думаете</title>
+    <ns>0</ns>
+    <id>5149292</id>
+    <revision>
+      <id>57112110</id>
+      <parentid>36521311</parentid>
+      <timestamp>2019-10-19T11:35:52Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="183" sha1="t5xwq8qacts6aqzqjot0p6fk1i79j4j" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ду́маете|pos=v}}
+
+===Verb===
+{{head|ru|verb form|head=ду́маете}}
+
+# {{inflection of|ru|ду́мать||2|p|pres|ind|impfv}}</text>
+      <sha1>t5xwq8qacts6aqzqjot0p6fk1i79j4j</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>думают</title>
+    <ns>0</ns>
+    <id>5149293</id>
+    <revision>
+      <id>57112116</id>
+      <parentid>36372897</parentid>
+      <timestamp>2019-10-19T11:35:53Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="173" sha1="ei849jyhrz9ktu1ilmh514gyyywr1ul" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ду́мают}}
+
+===Verb===
+{{head|ru|verb form|head=ду́мают}}
+
+# {{inflection of|ru|ду́мать||3|p|pres|ind|impfv}}</text>
+      <sha1>ei849jyhrz9ktu1ilmh514gyyywr1ul</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>думай</title>
+    <ns>0</ns>
+    <id>5149294</id>
+    <revision>
+      <id>71905981</id>
+      <parentid>67116739</parentid>
+      <timestamp>2023-03-17T20:40:05Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      remove horizontal rule separators per [[Wiktionary:Votes/2023-02/Removing the horizontal rule]]</comment>
+      <origin>71905981</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="332" sha1="k20101pi8q080encyqevvjbvubl1nz7" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ду́май}}
+
+===Verb===
+{{head|ru|verb form|head=ду́май}}
+
+# {{inflection of|ru|ду́мать||2|s|imp|impfv}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|ду́май}}
+
+===Verb===
+{{head|uk|verb form|head=ду́май}}
+
+# {{inflection of|uk|ду́мати||2|s|imp|impfv}}</text>
+      <sha1>k20101pi8q080encyqevvjbvubl1nz7</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>думайте</title>
+    <ns>0</ns>
+    <id>5149295</id>
+    <revision>
+      <id>71905991</id>
+      <parentid>67116741</parentid>
+      <timestamp>2023-03-17T20:40:05Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      remove horizontal rule separators per [[Wiktionary:Votes/2023-02/Removing the horizontal rule]]</comment>
+      <origin>71905991</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="354" sha1="b7xsjvtr2lugeer3um5wzyo2fjkb62b" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|ду́майте|pos=v}}
+
+===Verb===
+{{head|ru|verb form|head=ду́майте}}
+
+# {{inflection of|ru|ду́мать||2|p|imp|impfv}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|ду́майте}}
+
+===Verb===
+{{head|uk|verb form|head=ду́майте}}
+
+# {{inflection of|uk|ду́мати||2|p|imp|impfv}}</text>
+      <sha1>b7xsjvtr2lugeer3um5wzyo2fjkb62b</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>сделаю</title>
+    <ns>0</ns>
+    <id>5149296</id>
+    <revision>
+      <id>79315212</id>
+      <parentid>57112134</parentid>
+      <timestamp>2024-05-21T11:22:20Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>79315212</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="378" sha1="5y0ui8qegma5xslyvmjm4dwnss6bwot" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|сде́лаю}}
+
+===Verb===
+{{head|ru|verb form|head=сде́лаю}}
+
+# {{inflection of|ru|сде́лать||1|s|fut|ind|pfv}}
+#* {{w|Russian Synodal Bible}}, Mark 1.17:
+#*: {{quote|ru|И сказал им Иисус: идите за Мною, и Я '''сделаю''', что вы будете ловцами человеков.|}}</text>
+      <sha1>5y0ui8qegma5xslyvmjm4dwnss6bwot</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>сделаешь</title>
+    <ns>0</ns>
+    <id>5149297</id>
+    <revision>
+      <id>57112140</id>
+      <parentid>36405943</parentid>
+      <timestamp>2019-10-19T11:35:56Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112140</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="180" sha1="nepunfxenqeweydh8ellk9v1rc0wqel" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|сде́лаешь}}
+
+===Verb===
+{{head|ru|verb form|head=сде́лаешь}}
+
+# {{inflection of|ru|сде́лать||2|s|fut|ind|pfv}}</text>
+      <sha1>nepunfxenqeweydh8ellk9v1rc0wqel</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>сделает</title>
+    <ns>0</ns>
+    <id>5149298</id>
+    <revision>
+      <id>57112146</id>
+      <parentid>44374002</parentid>
+      <timestamp>2019-10-19T11:35:57Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="slbs2tyrbx6s94eop66ucqv6kdf6xpr" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|сде́лает}}
+
+===Verb===
+{{head|ru|verb form|head=сде́лает}}
+
+# {{inflection of|ru|сде́лать||3|s|fut|ind|pfv}}</text>
+      <sha1>slbs2tyrbx6s94eop66ucqv6kdf6xpr</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>сделаем</title>
+    <ns>0</ns>
+    <id>5149299</id>
+    <revision>
+      <id>80158916</id>
+      <parentid>57112152</parentid>
+      <timestamp>2024-06-07T07:55:30Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>80158916</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="406" sha1="1qjoqi9rleugl2df8t4l9hgy8fo4trf" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|сде́лаем}}
+
+===Verb===
+{{head|ru|verb form|head=сде́лаем}}
+
+# {{inflection of|ru|сде́лать||1|p|fut|ind|pfv}}
+#* {{RQ:RSB|Mark|9|5|При сем Петр сказал Иисусу: Равви́! хорошо нам здесь быть; '''сделаем''' три кущи: Тебе одну, Моисею одну, и одну Илии.}}</text>
+      <sha1>1qjoqi9rleugl2df8t4l9hgy8fo4trf</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>сделаете</title>
+    <ns>0</ns>
+    <id>5149300</id>
+    <revision>
+      <id>57112158</id>
+      <parentid>36526479</parentid>
+      <timestamp>2019-10-19T11:35:58Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112158</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="bqc2w7xmobukfm7cxkoxgbwtkmwlyyr" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|сде́лаете|pos=v}}
+
+===Verb===
+{{head|ru|verb form|head=сде́лаете}}
+
+# {{inflection of|ru|сде́лать||2|p|fut|ind|pfv}}</text>
+      <sha1>bqc2w7xmobukfm7cxkoxgbwtkmwlyyr</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>сделают</title>
+    <ns>0</ns>
+    <id>5149301</id>
+    <revision>
+      <id>57112165</id>
+      <parentid>36405959</parentid>
+      <timestamp>2019-10-19T11:35:59Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112165</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="rs9abkmux5959ch0ygfktlvv9uptavo" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|сде́лают}}
+
+===Verb===
+{{head|ru|verb form|head=сде́лают}}
+
+# {{inflection of|ru|сде́лать||3|p|fut|ind|pfv}}</text>
+      <sha1>rs9abkmux5959ch0ygfktlvv9uptavo</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>сделай</title>
+    <ns>0</ns>
+    <id>5149302</id>
+    <revision>
+      <id>57112171</id>
+      <parentid>36405946</parentid>
+      <timestamp>2019-10-19T11:36:00Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112171</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="7891jiyat6wj10vh1jbsh807xe1hont" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|сде́лай}}
+
+===Verb===
+{{head|ru|verb form|head=сде́лай}}
+
+# {{inflection of|ru|сде́лать||2|s|imp|pfv}}</text>
+      <sha1>7891jiyat6wj10vh1jbsh807xe1hont</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>сделайте</title>
+    <ns>0</ns>
+    <id>5149303</id>
+    <revision>
+      <id>79314078</id>
+      <parentid>57112179</parentid>
+      <timestamp>2024-05-21T06:29:03Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>79314078</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="398" sha1="5wq4yoldtqgvvc214lhzjp9j85mq8u6" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|сде́лайте|pos=v}}
+
+===Verb===
+{{head|ru|verb form|head=сде́лайте}}
+
+# {{inflection of|ru|сде́лать||2|p|imp|pfv}}
+#* {{w|Russian Synodal Bible}}, Mark 1.3:
+#*: {{quote|ru|«Глас вопиющего в пустыне: приготовьте путь Господу, прямыми '''сделайте''' стези Ему».|}}</text>
+      <sha1>5wq4yoldtqgvvc214lhzjp9j85mq8u6</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>живёшь</title>
+    <ns>0</ns>
+    <id>5149304</id>
+    <revision>
+      <id>57112186</id>
+      <parentid>44374000</parentid>
+      <timestamp>2019-10-19T11:36:02Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112186</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="132" sha1="jfh5rvz66vucdy5sgyednmn7q0uzrk4" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA}}
+
+===Verb===
+{{head|ru|verb form}}
+
+# {{inflection of|ru|жить||2|s|pres|ind|impfv}}</text>
+      <sha1>jfh5rvz66vucdy5sgyednmn7q0uzrk4</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>живёт</title>
+    <ns>0</ns>
+    <id>5149305</id>
+    <revision>
+      <id>57112192</id>
+      <parentid>46223743</parentid>
+      <timestamp>2019-10-19T11:36:02Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112192</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="132" sha1="ccvkvk0y9i8sqzp640h5gzholgq0o8s" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA}}
+
+===Verb===
+{{head|ru|verb form}}
+
+# {{inflection of|ru|жить||3|s|pres|ind|impfv}}</text>
+      <sha1>ccvkvk0y9i8sqzp640h5gzholgq0o8s</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>живём</title>
+    <ns>0</ns>
+    <id>5149306</id>
+    <revision>
+      <id>57112198</id>
+      <parentid>44373998</parentid>
+      <timestamp>2019-10-19T11:36:03Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="132" sha1="ndmtime5jn08muddyfzfnfg1h7p910k" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA}}
+
+===Verb===
+{{head|ru|verb form}}
+
+# {{inflection of|ru|жить||1|p|pres|ind|impfv}}</text>
+      <sha1>ndmtime5jn08muddyfzfnfg1h7p910k</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>живёте</title>
+    <ns>0</ns>
+    <id>5149307</id>
+    <revision>
+      <id>57112203</id>
+      <parentid>44373997</parentid>
+      <timestamp>2019-10-19T11:36:04Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112203</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="138" sha1="8vtl7pvmi2m8lcsj3okk59zdjzp3hrh" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|pos=v}}
+
+===Verb===
+{{head|ru|verb form}}
+
+# {{inflection of|ru|жить||2|p|pres|ind|impfv}}</text>
+      <sha1>8vtl7pvmi2m8lcsj3okk59zdjzp3hrh</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>живут</title>
+    <ns>0</ns>
+    <id>5149308</id>
+    <revision>
+      <id>57112209</id>
+      <parentid>44374001</parentid>
+      <timestamp>2019-10-19T11:36:05Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="163" sha1="pe923o1k72qskr50sifnue9f71rg6cy" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|живу́т}}
+
+===Verb===
+{{head|ru|verb form|head=живу́т}}
+
+# {{inflection of|ru|жить||3|p|pres|ind|impfv}}</text>
+      <sha1>pe923o1k72qskr50sifnue9f71rg6cy</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>живи</title>
+    <ns>0</ns>
+    <id>5149309</id>
+    <revision>
+      <id>71905998</id>
+      <parentid>67573982</parentid>
+      <timestamp>2023-03-17T20:40:06Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      remove horizontal rule separators per [[Wiktionary:Votes/2023-02/Removing the horizontal rule]]</comment>
+      <origin>71905998</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="679" sha1="ebwq5t9l60qlq5o4auycf6eo5vqz10s" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|живи́}}
+
+===Etymology 1===
+
+====Verb====
+{{head|ru|verb form|head=живи́}}
+
+# {{inflection of|ru|жить||2|s|imp|impfv}}
+
+===Etymology 2===
+
+====Verb====
+{{head|ru|verb form|head=живи́}}
+
+# {{inflection of|ru|живи́ть||2|s|imp|impfv}}
+
+==Serbo-Croatian==
+
+===Adjective===
+{{head|sh|adjective form}}
+
+# {{inflection of|sh|жив||m|nom//voc|p|;|def|m|nom//voc|s|;|def|in|m|acc|s}}
+
+===Noun===
+{{sh-noun-form}}
+
+# {{inflection of|sh|жива||dat//loc|s}}
+
+==Ukrainian==
+
+===Pronunciation===
+* {{uk-IPA|живи́}}
+
+===Verb===
+{{head|uk|verb form|head=живи́}}
+
+# {{inflection of|uk|жи́ти||2|s|imp|impfv}}</text>
+      <sha1>ebwq5t9l60qlq5o4auycf6eo5vqz10s</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>живите</title>
+    <ns>0</ns>
+    <id>5149310</id>
+    <revision>
+      <id>59993341</id>
+      <parentid>59918180</parentid>
+      <timestamp>2020-08-07T08:53:55Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move split pronun section to top to make combined</comment>
+      <origin>59993341</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="339" sha1="bgjwvzfwgtokbye15e36bbsg33frfj1" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|живи́те|pos=v}}
+
+===Etymology 1===
+
+====Verb====
+{{head|ru|verb form|head=живи́те}}
+
+# {{inflection of|ru|жить||2|p|imp|impfv}}
+
+===Etymology 2===
+
+====Verb====
+{{head|ru|verb form|head=живи́те}}
+
+# {{inflection of|ru|живи́ть||2|p|pres|ind|impfv|;|2|p|imp|impfv}}</text>
+      <sha1>bgjwvzfwgtokbye15e36bbsg33frfj1</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>делаешь</title>
+    <ns>0</ns>
+    <id>5149311</id>
+    <revision>
+      <id>57112228</id>
+      <parentid>36371551</parentid>
+      <timestamp>2019-10-19T11:36:07Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      move lang= to 1= in {{inflection of}}</comment>
+      <origin>57112228</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="cfnv2n1wwhrrpu95kr0ix041phe919b" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|де́лаешь}}
+
+===Verb===
+{{head|ru|verb form|head=де́лаешь}}
+
+# {{inflection of|ru|де́лать||2|s|pres|ind|impfv}}</text>
+      <sha1>cfnv2n1wwhrrpu95kr0ix041phe919b</sha1>
+    </revision>
+  </page>
+===================================================
+<page>
+    <title>делает</title>
+    <ns>0</ns>
+    <id>5149312</id>
+    <revision>
+      <id>79453350</id>
+      <parentid>79453337</parentid>
+      <timestamp>2024-05-29T07:54:23Z</timestamp>
+      <contributor>
+        <username>ПростаРечь</username>
+        <id>3605683</id>
+      </contributor>
+      <origin>79453350</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="401" sha1="f6lullmc1vm0s06aqg4948c4rjqsjl0" xml:space="preserve">==Russian==
+
+===Pronunciation===
+* {{ru-IPA|де́лает}}
+
+===Verb===
+{{head|ru|verb form|head=де́лает}}
+
+# {{inflection of|ru|де́лать||3|s|pres|ind|impfv}}
+#* {{RQ:RSB|Mark|7|37|И чрезвычайно дивились, и говорили: всё хорошо '''делает''', — и глухих '''делает''' слышащими, и немых — говорящими.}}</text>
+      <sha1>f6lullmc1vm0s06aqg4948c4rjqsjl0</sha1>
+    </revision>
+  </page>
+===================================================
