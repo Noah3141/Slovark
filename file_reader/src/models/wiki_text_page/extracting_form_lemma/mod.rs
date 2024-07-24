@@ -33,56 +33,22 @@ impl WikiTextPage {
 
     /// Attempts to extract (form, lemma) from page
     /// 
-    /// 1. Find the plain word in question (page title)
+    /// 1. Find the plain word in question (page title, "form")
     /// 2. Find the target language section
-    /// 3. Check if the target language section includes the special labels for inflected form (indicating, say, that кошки should link to кошка) or non-inflected form (detected by )
-    /// 4.  
+    /// 3. Grab the first Noun, Verb, Adjective section, extracting the most immediate instance either of {{infl or {{ru- (for Russian)
+    /// 4. Convert this {{macro}} into its contained lemma
+    /// 5. Pair the form and lemma
     pub fn extract_lemma_entry(page: &str, diagnostics: bool) -> Result<(String, String), String>{
 
-        let plain_word = Self::find_plain_word(&page).map_err(|e| format!("{e:#?}"))?; // 2
+        let plain_word = Self::find_plain_word(&page).map_err(|e| format!("{e:#?}"))?; // This is the "form"
         if plain_word.chars().count() < 3 {
             return Err("Too short to be substantial".to_string());
         }
 
         let target_language_section = Self::find_language_section(&RUN_OPTS.language, page);
-        //
-        // ==RU/BE/UK== 
-        // ===Verb===
-        //
-        // ===Noun===
-        // 
-
         let wiki_text_macro = WikiTextMacro::find_first(target_language_section, &RUN_OPTS.language);
         let lemma = wiki_text_macro.expect("Finding a macro in language section").extract_to_lemma();
 
         Ok((plain_word, lemma))
-
-        // if target_language_section.contains(Self::INFLECTED_FORM_LABEL) {
-        //     let start_of_lemma = target_language_section.find(Self::INFLECTED_FORM_LABEL).unwrap()
-        //         + Self::INFLECTED_FORM_LABEL.len();
-        //     let lemma_onward = &target_language_section[start_of_lemma..];
-        //     let mut lemma = &lemma_onward[..lemma_onward.find("||").expect("closing pipes")];
-
-        //     if lemma.contains("|") {
-        //         lemma = &lemma[..lemma.find("|").unwrap()];
-        //     }
-
-        //     return Ok((plain_word, lemma.to_string()))
-
-
-        // } else if target_language_section.contains(Self::NONINFLECTED_FORM_LABEL) {
-        //     let noun_macro = NounMacro::find_first_in(target_language_section).expect("macro to be found");
-        //     let lemma = match noun_macro.core_noun_text() {
-        //         Some(text) => text,
-        //         None => {
-        //             return Err("Couldn't locate core noun text in noun macro".to_string());
-        //         }
-        //     };
-
-        //     return Ok((plain_word, lemma))
-            
-        // }
-
-
     }
 }

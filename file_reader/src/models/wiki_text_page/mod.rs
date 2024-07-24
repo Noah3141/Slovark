@@ -4,6 +4,7 @@ use super::pos::PoS;
 mod reqwest_info;
 mod parse_from_page;
 mod extracting_form_lemma;
+pub mod error;
 
 #[derive(Debug, Serialize, Deserialize)]
 /// Faithful parsing of the WikiText strings in a page. Holds verbs, nouns, and adjective entries alike
@@ -16,16 +17,3 @@ pub struct WikiTextPage {
     pub etymology: Option<String>,
     pub related_terms: Option<String>,
 }
-
-#[derive(Debug)]
-pub enum WikiTextPageInitError {
-    MissingCorePiece(String),
-    MissingExtraPiece(String),
-    NotADictionaryPage(String),
-    UnimplementedPOSFound(String),
-    NotASubstantiveWord(String),
-    InflectedFormPage,
-    UndeclinableNoun,
-}
-type InitError = WikiTextPageInitError;
-

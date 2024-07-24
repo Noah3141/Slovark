@@ -114,3 +114,39 @@ Perhaps from {{der|ru|fr|neutraliser}} + {{af|ru|-ова́ть}}.
 }
 
 
+#[test]
+fn finding_first_wiki_text_macro5() {
+    let wikimacro = WikiTextMacro::find_first(r#"==Belarusian==
+
+===Alternative forms===
+* {{alt|be|jazyk||Łacinka}}
+
+===Etymology===
+{{inh+|be|zle-ort|ѧзы́къ}}, from {{inh|be|orv|ѧзꙑкъ}}, from {{inh|be|sla-pro|*(j)ęzykъ}}, from {{inh|be|ine-bsl-pro|*inźūˀ|*inźūˀkas}}, from {{der|be|ine-pro|*dn̥ǵʰwéh₂s}}.
+
+===Pronunciation===
+* {{be-IPA|язы́к}}
+* {{audio|be|LL-Q9091_(bel)-Ssvb-язык.wav}}
+
+===Noun===
+{{be-noun|язы́к&lt;b&gt;}}
+
+# [[tongue]] {{gloss|organ}}
+
+====Usage notes====
+To translate {{m|en|language}}, use {{m|be|мо́ва}} instead.
+
+====Declension====
+{{be-ndecl|язы́к&lt;b&gt;}}
+
+===References===
+* {{R:be:slounik.org}}
+
+{{topics|be|Body parts}}
+"#, &Language::Belarusian)
+        .expect("Finding the macro contained");
+
+    assert_eq!(wikimacro.text, r#"{{be-noun|язы́к&lt;b&gt;}}"#);
+}
+
+

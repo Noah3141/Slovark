@@ -25,7 +25,7 @@ pub fn run() -> Result<(), &'static str> {
 
     for page in intermediary_text.split(INTERMEDIARY_DELIMITER) {
         if page == "" { continue; }
-        let extract_result = WikiTextPage::write_lemma_entry(page, false, &mut form_lemma_file);
+        WikiTextPage::write_lemma_entry(page, false, &mut form_lemma_file).expect("successful writing of lemma");
     }
     // Create Form-Lemma sheet
 

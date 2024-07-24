@@ -1,4 +1,4 @@
-use crate::models::{pos::PoS, WikiTextPageInitError};
+use crate::models::{pos::PoS, wiki_text_page::error::WikiTextPageInitError, };
 mod test;
 
 use super::{InitError, WikiTextPage};

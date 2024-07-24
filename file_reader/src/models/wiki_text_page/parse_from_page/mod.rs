@@ -1,5 +1,5 @@
 use crate::RUN_OPTS;
-use super::{InitError, WikiTextPage};
+use super::{ error::InitError, WikiTextPage};
 
 mod find_page_id;
 mod find_plain_word;
